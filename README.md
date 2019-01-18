@@ -31,7 +31,7 @@ _______
 4. Atividade 01 - [Sequência de pilares](https://255ribeiro.github.io/CAD_intro/grasshopper_intro/gh_intro.html)
 
     - Pontos
-    - vetores
+    - Vetores
     - Linhas
     - Curvas
     - Pipe
