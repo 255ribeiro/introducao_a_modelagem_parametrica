@@ -14,11 +14,11 @@ _______
 
 ### Aula 01 (18/01/2019)
 
-1. Interface do Rhinoceros3D 6.x
+1. Interface do Rhinoceros3D  6.x
 
 2. Conceito de Modelagem Paramétrica
 
-3. Interface do Grasshopper
+3. [Interface do Grasshopper](https://255ribeiro.github.io/CAD_intro/grasshopper_intro/gh_intro.html)
 
     - Sliders
     - Panels
