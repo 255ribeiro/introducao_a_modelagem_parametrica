@@ -43,15 +43,25 @@ _______
 
 1. Planos
 
-2. Atividade 02 - Brise Paramétrico
+2. Atividade 02 - Brise Paramétrico - Parte I
 
 _______
 
 ### Aula 03 (19/01/2019)
 
+1. Atividade 02 - Brise Paramétrico - Parte II
+
 _______
 
 ### Links
+
+[Rhino3d](https://www.rhino3d.com/)
+
+[Grashopper](https://www.grasshopper3d.com/)
+
+[Food4Rhino](https://www.food4rhino.com/)
+
+[Parametric house](https://www.youtube.com/parametrichouse)
 
 _______
 _______
