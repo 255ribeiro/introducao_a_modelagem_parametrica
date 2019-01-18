@@ -21,7 +21,7 @@ _______
     - Comandos
     - [Atalhos](https://255ribeiro.github.io/CAD_intro/atalhosRhino/atalhosRhino.html)
 
-2. [Introdução à Modelagem Paramétrica](slides/Itro_modelagem_param_MBI_BIM.pdf)
+2. [Introdução à Modelagem Paramétrica](slides/Intro_modelagem_param_MBI_BIM.pdf)
 
 3. Interface do Grasshopper
 
