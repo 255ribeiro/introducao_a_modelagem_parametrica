@@ -20,7 +20,7 @@ _______
 
 3. [Interface do Grasshopper](https://255ribeiro.github.io/CAD_intro/grasshopper_intro/gh_intro.html)
 
-    - Sliders
+    - [Sliders](Slider/Slider_carac.md)
     - Panels
 
 4. Atividade 01 - Sequência de pilares
