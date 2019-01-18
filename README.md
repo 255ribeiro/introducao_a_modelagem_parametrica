@@ -16,6 +16,7 @@ _______
 
 1. Interface do Rhinoceros3D  6.x
 
+    - Nurbs
     - Navegação
     - Abas
     - Comandos
