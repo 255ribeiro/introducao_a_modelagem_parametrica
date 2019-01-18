@@ -45,5 +45,6 @@ Para editar um slider, deve-se aplicar um dluplo klick na primeira parte de um s
 6. Valor máximo de um slider
 
 7. Valor utilizado no fluxo do algoritmo
+
 __________
 __________
