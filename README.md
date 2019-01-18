@@ -63,9 +63,9 @@ _______
 
 [Rhino Tutorials](https://www.youtube.com/channel/UCsWpNdwxf0I3ffkedM505xA/featured)
 
-[essential Mathematics for Computational design](https://discourse.mcneel.com/t/the-essential-mathematics-third-edition/4049)
+[Essential Mathematics for Computational Design](https://discourse.mcneel.com/t/the-essential-mathematics-third-edition/4049)
 
-[Parametric house](https://www.youtube.com/parametrichouse)
+[Parametric House](https://www.youtube.com/parametrichouse)
 
 _______
 _______
