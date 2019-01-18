@@ -61,6 +61,8 @@ _______
 
 [Food4Rhino](https://www.food4rhino.com/)
 
+[essential Mathematics for Computational design](https://discourse.mcneel.com/t/the-essential-mathematics-third-edition/4049)
+
 [Parametric house](https://www.youtube.com/parametrichouse)
 
 _______
