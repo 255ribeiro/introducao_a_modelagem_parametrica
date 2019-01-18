@@ -16,14 +16,19 @@ _______
 
 1. Interface do Rhinoceros3D  6.x
 
+    - Navegação
+    - Abas
+    - Comandos
+    - [Atalhos](https://255ribeiro.github.io/CAD_intro/atalhosRhino/atalhosRhino.html)
+
 2. Conceito de Modelagem Paramétrica
 
-3. [Interface do Grasshopper](https://255ribeiro.github.io/CAD_intro/grasshopper_intro/gh_intro.html)
+3. Interface do Grasshopper
 
     - [Sliders](Slider/Slider_carac.md)
     - Panels
 
-4. Atividade 01 - Sequência de pilares
+4. Atividade 01 - [Sequência de pilares](https://255ribeiro.github.io/CAD_intro/grasshopper_intro/gh_intro.html)
 
     - Pontos
     - vetores
