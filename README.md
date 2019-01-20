@@ -52,6 +52,8 @@ _______
 
 1. Atividade 02 - Brise Paramétrico - Parte II
 
+    - [Arquivo final](./brise_parametrico.gh)
+
 _______
 
 ### Links
