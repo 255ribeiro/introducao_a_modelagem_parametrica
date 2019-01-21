@@ -42,9 +42,17 @@ _______
 
 ### Aula 02 (19/01/2019)
 
+1. Manipulação de listas
+
+    - Seleção de um elemento de uma lista peli **Indice**
+    - Exclusão de um elemento de uma lista pelo **Indice**
+
 1. Planos
 
-2. Atividade 02 - Brise Paramétrico - Parte I
+    - Construção - atributos essenciais
+    - Extração de stributos (desconstrução)
+
+1. Atividade 02 - Brise Paramétrico - Parte I
 
 _______
 
