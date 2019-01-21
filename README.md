@@ -76,17 +76,27 @@ _______
 
 ### Links
 
+#### Site do Rhinoceros 3D
+
 [Rhino3d](https://www.rhino3d.com/)
+
+#### Comunidade e forum dos grasshopper
 
 [Grasshopper](https://www.grasshopper3d.com/)
 
+#### Download de Plug-ins
+
 [Food4Rhino](https://www.food4rhino.com/)
+
+#### BIM e Automação de processos construtivos
 
 [Conexão **Rhinoceros/Grasshopper** - **Archicad** - Demonstração e Download](https://www.graphisoft.com/br/archicad/rhino-grasshopper/index.html)
 
 [Conexão **Rhino/Grasshopper** - **Revit** - apresentação do *workflow*](https://www.youtube.com/watch?v=ylPe7nS69hg)
 
 [Detalhamanto e Planilhamento autoático de elementos de fachada utilizando **Rhinoceros/Grasshopper** e o *plug-in* **Elefront** - apresentação do *workflow*](https://www.youtube.com/watch?v=i1A2fU_H4fA&t=31s)
+
+#### Tutoriais gratuitos do Rhino e grasshopper
 
 [Rhino Tutorials](https://www.youtube.com/channel/UCsWpNdwxf0I3ffkedM505xA/featured)
 
