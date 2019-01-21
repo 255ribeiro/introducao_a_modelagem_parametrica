@@ -50,7 +50,7 @@ _______
 1. Planos
 
     - Construção - atributos essenciais
-    - Extração de stributos (desconstrução)
+    - Extração de atributos (desconstrução)
 
 1. Atividade 02 - Brise Paramétrico - Parte I
 
