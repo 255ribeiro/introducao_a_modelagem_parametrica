@@ -44,8 +44,8 @@ _______
 
 1. Manipulação de listas
 
-    - Seleção de um elemento de uma lista pelo **Indice**
-    - Exclusão de um elemento de uma lista pelo **Indice**
+    - Seleção de um elemento de uma lista pelo **Índice**
+    - Exclusão de um elemento de uma lista pelo **Índice**
 
 1. Planos
 
