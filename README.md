@@ -94,6 +94,8 @@ _______
 
 [Conexão **Rhino/Grasshopper** - **Revit** - apresentação do *workflow*](https://www.youtube.com/watch?v=ylPe7nS69hg)
 
+[Plug-in Grevit - exportação IFC/revit/Archicad - gratuito](https://www.food4rhino.com/app/grevit-grasshopper-native-bim)
+
 [Detalhamanto e Planilhamento autoático de elementos de fachada utilizando **Rhinoceros/Grasshopper** e o *plug-in* **Elefront** - apresentação do *workflow*](https://www.youtube.com/watch?v=i1A2fU_H4fA&t=31s)
 
 #### Tutoriais gratuitos do Rhino e grasshopper
