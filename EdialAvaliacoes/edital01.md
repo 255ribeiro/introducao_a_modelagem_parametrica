@@ -23,6 +23,6 @@ _________________
 
 ### Objetivos da Avalaiação
 
-1. Ao formular o texto, o obejetivodo aluno deve ser organizar as ideias apresentadas no curso.
+1. Ao formular o texto, o obejetivo do aluno deve ser organizar as ideias apresentadas no curso.
 
 2. Ao gerar as ilustrações o objetivo é manipular os algoritmos, exercitando as habilidades apresentadas no curso.
