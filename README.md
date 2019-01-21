@@ -72,13 +72,17 @@ _______
 
 [Food4Rhino](https://www.food4rhino.com/)
 
+[Conexão **Rhinoceros/Grasshopper** - **Archicad** - Demonstração e Download](https://www.graphisoft.com/br/archicad/rhino-grasshopper/index.html)
+
+[Conexão **Rhino/Grasshopper** - **Revit** - apresentação do *workflow*](https://www.youtube.com/watch?v=ylPe7nS69hg)
+
+[Detalhamanto e Planilhamento autoático de elementos de fachada utilizando **Rhinoceros/Grasshopper** e o *plug-in* **Elefront** - apresentação do *workflow*](https://www.youtube.com/watch?v=i1A2fU_H4fA&t=31s)
+
 [Rhino Tutorials](https://www.youtube.com/channel/UCsWpNdwxf0I3ffkedM505xA/featured)
 
 [Essential Mathematics for Computational Design](https://discourse.mcneel.com/t/the-essential-mathematics-third-edition/4049)
 
 [Parametric House](https://www.youtube.com/parametrichouse)
-
-[Conexão Rhinoceros/Grasshopper Archicad - Demonstração e Download](https://www.graphisoft.com/br/archicad/rhino-grasshopper/index.html)
 
 _______
 _______
