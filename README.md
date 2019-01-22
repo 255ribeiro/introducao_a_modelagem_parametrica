@@ -58,19 +58,19 @@ _______
 
 ### Aula 03 (19/01/2019)
 
-1. Atividade 02 - Brise Paramétrico - Parte II
-
 1. Planos - continuação
 
 1. Listas - continuação
 
 1. Clusters
 
+1. Atividade 02 - Brise Paramétrico - Parte II
+
+    - [Arquivo final](./brise_parametrico.gh)
+
 1. Dúvidas sobre a avaliação
 
 1. Comentários sobre o curso
-
-    - [Arquivo final](./brise_parametrico.gh)
 
 _______
 
