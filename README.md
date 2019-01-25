@@ -104,6 +104,8 @@ _______
 
 [Rhino Tutorials](https://www.youtube.com/channel/UCsWpNdwxf0I3ffkedM505xA/featured)
 
+[Página de tutoriais do frum do grasshopper](https://www.grasshopper3d.com/page/tutorials-1)
+
 [Essential Mathematics for Computational Design](https://discourse.mcneel.com/t/the-essential-mathematics-third-edition/4049)
 
 [Parametric House](https://www.youtube.com/parametrichouse)
