@@ -19,7 +19,7 @@ _______
     - Navegação
     - Abas
     - Comandos
-    - [Atalhos](https://255ribeiro.github.io/CAD_intro/atalhosRhino/atalhosRhino.html)
+    - [Atalhos](https://255ribeiro.github.io/cad_intro/atalhosRhino/atalhosRhino.html)
 
 2. [Introdução à Modelagem Paramétrica](slides/Intro_modelagem_param_MBI_BIM.pdf)
 
@@ -28,7 +28,7 @@ _______
     - [Sliders](Slider/Slider_carac.md)
     - Panels
 
-4. Atividade 01 - [Sequência de pilares](https://255ribeiro.github.io/CAD_intro/grasshopper_intro/gh_intro.html)
+4. Atividade 01 - [Sequência de pilares](https://255ribeiro.github.io/cad_intro/grasshopper_intro/gh_intro.html)
 
     - Pontos
     - Vetores
