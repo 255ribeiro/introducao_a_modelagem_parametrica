@@ -4,7 +4,7 @@ __________
 
 ## O que é um slider no Grasshopper
 
-Os sliders são os principais componentes para controlar, aterar e exploara o cunjunto de soluções possíveis para um modelo paramétrico, quando os parâmetros de entrada são **números**.
+Os sliders são os principais componentes para controlar, aterar e exploara o conjunto de soluções possíveis para um modelo paramétrico, quando os parâmetros de entrada são **números**.
 
 __________
 
