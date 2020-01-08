@@ -15,7 +15,7 @@ _________________
     1. Plano
     1. Lista
 
-1. As aplicações devem ser ilustadas, utilizando algoritoms e imagens extraidas do ambiente de trabalho Rhinoceros3D/grasshopper.
+1. As aplicações devem ser ilustradas, utilizando algoritmos e imagens extraídas do ambiente de trabalho Rhinoceros3D/grasshopper.
 
 1. O arquivo deve ser enviado em PDF por e-mail até uma semana após o fim das aulas da disciplina.
 
