@@ -42,6 +42,8 @@ ___________________
 
 Se você quer saber em que aba/subcategoria um componente usado em um algoritmo se encontra, aperte as teclas Ctrl + ALt e clique e segure o botão esquerdo do mouse sobre o componente. A interface do **Grasshopper** ira mostrar onde o componente se encontra.
 
+![gif](./ctrl_alt_lmb.gif)
+
 ___________
 ___________
 
