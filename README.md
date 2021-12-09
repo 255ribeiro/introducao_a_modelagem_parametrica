@@ -2,7 +2,7 @@
 
 _______
 
-## MBI BIM | SENAI-CIMATEC | 2019.1
+## MBI BIM | SENAI-CIMATEC | 2021.2
 
 ## Prof. Fernando Ferraz Ribeiro | ffribeiro@gmail.com
 
@@ -24,11 +24,16 @@ _______
 2. [Introdução à Modelagem Paramétrica](slides/Intro_modelagem_param_MBI_BIM.pdf)
 
 
+_______
+
+### Introdução - parte 2
 
 3. Interface do Grasshopper
 
-    - [Sliders](Slider/Slider_carac.md)
-    - Panels
+    - [Janela do Grasshopper](./gh_interface/gh_inter.md)
+
+    - [Sliders](./Slider/Slider_config.md/Slider_carac.md)
+    - [Panels](./Panels/Painel_config.MD)
 
 4. Atividade 01 - [Sequência de pilares](https://255ribeiro.github.io/cad_intro/grasshopper_intro/gh_intro.html)
 
