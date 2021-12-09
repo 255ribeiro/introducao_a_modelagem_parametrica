@@ -1,5 +1,10 @@
 # Interface
 
+_______________
+## Abrindo o Grasshopper
+
+Para iniciar o grasshopper, digite **grasshopper** na linha de comando do Rhino.
+
 ____________
 
 ## Interface do Grasshopper
@@ -9,9 +14,11 @@ ____________
 1. Main menu
 2. Tabs
 3. Component palettes.
-4. canvas toolbar
-5. canvas
-6. status bar
+4. Canvas toolbar
+5. Canvas
+6. Status bar
+
+Os componetes do **GrasShopper** estão organzados em abas. Cada aba contem um ou mais paletas que abrigam os componentes (as vezes chamados de baterias) do **Grasshopper**.
 
 
 ____________
