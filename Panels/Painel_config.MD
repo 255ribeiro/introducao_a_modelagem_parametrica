@@ -17,7 +17,7 @@ __________
 
 ![paineis](./panel_01.jpg)
 
-O componente *Panels* pode ser encontrado na aba **Params**, no painel **Input**. como mostrado na figura acima.
+O componente *Panels* pode ser encontrado na aba **Params**, na paleta **Input**. como mostrado na figura acima.
 
 Também podem ser carregados por atalho, clicando duas vezes na tela e digitando duas barras de divisão:
 

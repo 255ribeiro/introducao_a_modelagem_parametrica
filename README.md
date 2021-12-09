@@ -32,10 +32,11 @@ _______
 
     - [Janela do Grasshopper](./gh_interface/gh_inter.md)
 
-    - [Sliders](./Slider/Slider_config.md/Slider_carac.md)
+    - [Sliders](./Slider/Slider_config.md)
     - [Panels](./Panels/Painel_config.MD)
 
-4. Atividade 01 - [Sequência de pilares](https://255ribeiro.github.io/cad_intro/grasshopper_intro/gh_intro.html)
+4. Atividade 01 
+   - [Sequência de pilares](https://255ribeiro.github.io/cad_intro/grasshopper_intro/gh_intro.html)
 
     - Pontos
     - Vetores

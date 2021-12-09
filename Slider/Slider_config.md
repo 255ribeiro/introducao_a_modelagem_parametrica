@@ -12,7 +12,7 @@ __________
 
 ![como criar um componente slider](slider_loc.png)
 
-O componente Slider se localiza na aba **Param**, no painel **Input**, como mostrado na figura acima.
+O componente Slider se localiza na aba **Param**, na paleta **Input**, como mostrado na figura acima.
 
 __________
 
@@ -28,7 +28,7 @@ __________
 
 ## Editando um slider
 
-Para editar um slider, deve-se aplicar um dluplo klick na primeira parte de um slider, abrindo a caixa de diálogo mostrada na figura abaixo, onde os principais campos de edição de um slider estão numerados.
+Para editar um slider, deve-se aplicar um dluplo click na primeira parte de um slider, abrindo a caixa de diálogo mostrada na figura abaixo, onde os principais campos de edição de um slider estão numerados.
 
 ![Editando um Slider](slider_edit.png)
 

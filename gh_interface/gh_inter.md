@@ -6,9 +6,9 @@ ____________
 
 ![Interface](./gh_inter.jpg)
 
-1. Application menu
+1. Main menu
 2. Tabs
-3. panels
+3. Component palettes.
 4. canvas toolbar
 5. canvas
 6. status bar
@@ -17,11 +17,11 @@ ____________
 ____________
 ## Inserindo um componente
 
-Para inserir um componente, procure a aba e o painel do componente. Na figura abaixo utilizamos o componente **Construct Point**, na aba **Vector** subcategoria **Point**, componente **Construct Point**.
+Para inserir um componente, procure a aba e o painel do componente. Na figura abaixo utilizamos o componente **Construct Point**, na aba **Vector** paleta **Point**, componente **Construct Point**.
 
 ![comp](./comp_01.jpg)
 
-Após clicar no componente, cique em algum lugar da **Canvas** para inserir o componente
+Após clicar no componente, clique em algum lugar da **Canvas** para inserir o componente
 
 ![comp](./comp_02.jpg)
 
@@ -33,7 +33,7 @@ ___________________
 
 ## Ctrl + alt + left mouse hold
 
-Se você quer saber em que aba/subcategoria um componente usado em um algoritmo se encontra, aperte as teclas Ctrl + ALt e cliqe e segure o botão esquerdo do mouse sobre o componente. A interface do **Grasshopper** ira mostrar onde o componente se encontra.
+Se você quer saber em que aba/subcategoria um componente usado em um algoritmo se encontra, aperte as teclas Ctrl + ALt e clique e segure o botão esquerdo do mouse sobre o componente. A interface do **Grasshopper** ira mostrar onde o componente se encontra.
 
 ___________
 ___________
