@@ -47,7 +47,7 @@ _______
 
 _______
 
-### Aula 02 (19/01/2019)
+### Atividade 02 - parte 1
 
 1. Manipulação de listas
 
@@ -63,7 +63,7 @@ _______
 
 _______
 
-### Aula 03 (19/01/2019)
+### Atividade 02 - parte 2
 
 1. Planos - continuação
 
@@ -111,7 +111,9 @@ _______
 
 [Rhino Tutorials](https://www.youtube.com/channel/UCsWpNdwxf0I3ffkedM505xA/featured)
 
-[Página de tutoriais do frum do grasshopper](https://www.grasshopper3d.com/page/tutorials-1)
+[Página de tutoriais do froum do Grasshopper](https://www.grasshopper3d.com/page/tutorials-1)
+
+[Grasshopper Primer](https://www.modelab.is/grasshopper-primer)
 
 [Essential Mathematics for Computational Design](https://discourse.mcneel.com/t/the-essential-mathematics-third-edition/4049)
 
