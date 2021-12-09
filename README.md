@@ -12,7 +12,7 @@ _______
 
 _______
 
-### Aula 01 (18/01/2019)
+### Introdução - parte 1
 
 1. Interface do Rhinoceros3D  6.x
 
@@ -22,6 +22,8 @@ _______
     - [Atalhos](https://255ribeiro.github.io/cad_intro/atalhosRhino/atalhosRhino.html)
 
 2. [Introdução à Modelagem Paramétrica](slides/Intro_modelagem_param_MBI_BIM.pdf)
+
+
 
 3. Interface do Grasshopper
 
