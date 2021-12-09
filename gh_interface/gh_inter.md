@@ -38,7 +38,7 @@ Podemos ver o ponto marcado na coordenada 0,0,0 na tela do Rhino. Essa marcaçã
 
 ___________________
 
-## Ctrl + alt + left mouse hold
+## Ctrl + alt + left mouse button hold
 
 Se você quer saber em que aba/subcategoria um componente usado em um algoritmo se encontra, aperte as teclas Ctrl + ALt e clique e segure o botão esquerdo do mouse sobre o componente. A interface do **Grasshopper** ira mostrar onde o componente se encontra.
 
