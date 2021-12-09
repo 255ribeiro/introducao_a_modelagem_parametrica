@@ -36,7 +36,7 @@ _______
     - [Panels](./Panels/Painel_config.MD)
 
 4. Atividade 01 
-   - [Sequência de pilares](https://255ribeiro.github.io/cad_intro/grasshopper_intro/gh_intro.html)
+   - [Sequência de pilares](./gh_pilares/gh_pilares.md)
 
     - Pontos
     - Vetores
