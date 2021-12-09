@@ -31,20 +31,19 @@ _______
 3. Interface do Grasshopper
 
     - [Janela do Grasshopper](./gh_interface/gh_inter.md)
-
     - [Sliders](./Slider/Slider_config.md)
     - [Panels](./Panels/Painel_config.MD)
 
 4. Atividade 01 
-   - [Sequência de pilares](./gh_pilares/gh_pilares.md)
 
-    - Pontos
-    - Vetores
-    - Linhas
-    - Nurbs
-    - Curvas
-    - Pipe
-    - Listas
+   - [Sequência de pilares](./gh_pilares/gh_pilares.md)
+   - Pontos
+   - Vetores
+   - Linhas
+   - Nurbs
+   - Curvas
+   - Pipe
+   - Listas    
 
 _______
 
