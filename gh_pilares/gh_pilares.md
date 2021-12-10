@@ -105,7 +105,9 @@ Algoritmo final
 
 ![exemplo01](./exemplo01.png)
 
-## Exemplos
+[Download](./seq_pilares_final.gh) do arquivo do exemplo
+
+## Outros exemplos
 
 [Elementos tubulares uma Curva](./ELEMENTOS_TUBULARES_UMA_CURVA.gh)
 
@@ -115,4 +117,4 @@ Algoritmo final
 
 [Guarda Corpo](./GUARDA-CORPO.gh)
 
-[Exemplo Mies](./Exemplo_Mies.gh)
+[Exemplo Mies](./Exemplo_Mies_rhino7.gh)
