@@ -53,6 +53,7 @@ _______
 
     - Seleção de um elemento de uma lista pelo **Índice**
     - Exclusão de um elemento de uma lista pelo **Índice**
+    - **Shift List**
 
 1. Planos
 
