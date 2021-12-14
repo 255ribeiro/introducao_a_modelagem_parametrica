@@ -49,7 +49,7 @@ _______
 
 ### Atividade 02 - parte 1
 
-1. Manipulação de listas
+1. [Manipulação de listas](./gh_list_intro/gh_list_basics.md)
 
     - Seleção de um elemento de uma lista pelo **Índice**
     - Exclusão de um elemento de uma lista pelo **Índice**
