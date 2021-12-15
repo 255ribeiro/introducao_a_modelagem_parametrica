@@ -55,7 +55,7 @@ _______
     - Exclusão de um elemento de uma lista pelo **Índice**
     - **Shift List**
 
-1. Planos
+1. [Vetores e Planos](./gh_vect_plane/vect_plane_basics.md)
 
     - Construção - atributos essenciais
     - Extração de atributos (desconstrução)
