@@ -34,15 +34,20 @@ Após clicar no componente, clique em algum lugar da **Canvas** para inserir o c
 
 ![comp](./comp_02.jpg)
 
-Podemos ver o ponto marcado na coordenada 0,0,0 na tela do Rhino. Essa marcação é gerada pelo componente. 
+Podemos ver o ponto marcado na coordenada 0,0,0 na tela do **Rhino**. Essa marcação é gerada pelo componente. 
 
 ![comp](./comp_03.jpg)
+
+O ponto criado pelo componente **Construct Point** pode ser modificado de diversas maneiras, uma delas é através dos **number sliders**. Inserindo **Sliders** nas entradas das coordenadas do ponto é possível alterar parametricamente a posição do ponto na tela.
+
+![component](./component.gif)
+
 
 ___________________
 
 ## Ctrl + alt + left mouse button hold
 
-Se você quer saber em que aba/subcategoria um componente usado em um algoritmo se encontra, aperte as teclas Ctrl + ALt e clique e segure o botão esquerdo do mouse sobre o componente. A interface do **Grasshopper** ira mostrar onde o componente se encontra.
+Se você quer saber em que aba/paleta um componente usado em um algoritmo se encontra, aperte as teclas Ctrl + ALt e clique e segure o botão esquerdo do mouse sobre o componente. A interface do **Grasshopper** ira mostrar onde o componente se encontra.
 
 ![gif](./ctrl_alt_lmb.gif)
 
