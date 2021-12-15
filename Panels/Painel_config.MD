@@ -59,19 +59,19 @@ Os dados podem ser inseridos manualmente de diferentes maneiras:
 
 Podemos inserir múltiplas linhas de texto e um **slider** pelos métodos 1 e 2 listados acima, utilizando a tecla **enter** ao digitar.
 
-Clicando com o botão direito em um **slider** vemos as opções de configuração. Dentre elas, a opção **Multiline Data** é uma das mais importantes e vem marcada como desativada por padrão.
+Clicando com o botão direito em um **slider** vemos as opções de configuração. Dentre elas, a opção **Multiline Data** é uma das mais importantes e vem marcada como ativada por padrão.
 
 ![panels](./multiline_01.png)
 
-No exemplo abaixo vemos o componente **concatenate** utilizado com as mesmas entradas, na esquerda, o slider conectado à entrada **Fragment A** do componente está configurada com o **Multiline data** desativado (padrão para too slider novo), no exemplo da direita, a opção esta ativada.
+No exemplo abaixo vemos o componente **concatenate** utilizado com as mesmas entradas, na esquerda, o slider conectado à entrada **Fragment A** do componente está configurada com o **Multiline data** ativado (padrão para too slider novo), no exemplo da direita, a opção esta desativada.
 
 ![panels](./multiline_02.png)
 
 O componente **concatenate** junta dois textos em um só. Essa é uma operação simples, mas é muito utilizada em linguagens de programação e importante em diversos problemas computacionais.
 
-No primeiro exemplo, o componente considerou o texto em **Fragment A** como uma informação única, colocando o texto de **Fragment B** após o fim de **Fragment A**.
+No primeiro exemplo, o componente considerou o texto em **Fragment A** como uma informação única (um dado com multiplas linhas), colocando o texto de **Fragment B** após o fim de **Fragment A**.
 
-No exemplo da direita, com o **Multiline data** ativado, o componente considerou que cada linha de texto do **panel** era uma informação **data** separada. colocando o texto de **Fragment B** após o final de cada linha.
+No exemplo da direita, com o **Multiline data** desativado, o componente considerou que cada linha de texto do **panel** era uma informação **data** separada (um dado difernete por linha). colocando o texto de **Fragment B** após o final de cada linha.
 
 ____________________
 ____________________
