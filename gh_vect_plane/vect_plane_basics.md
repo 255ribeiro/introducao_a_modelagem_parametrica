@@ -22,7 +22,7 @@ Como pontos e vetores são representados no plano cartesiano.
 ### Operações com vetores e pontos
    - soma
    - subtração
-   - produto vetorial ( cross product)
+   - produto vetorial (cross product)
 
 
 ## Planos
