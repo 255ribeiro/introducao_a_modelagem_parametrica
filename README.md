@@ -63,8 +63,8 @@ _______
 
 ##### Atividade 02 - Brise Paramétrico - Parte I
 
-    - Clusters
-    - [Arquivo final](./brise_parametrico_2021.gh)
+ - Clusters
+ - [Arquivo final](./brise_parametrico_2021.gh)
 
 _______
 
