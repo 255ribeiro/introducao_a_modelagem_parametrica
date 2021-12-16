@@ -30,13 +30,9 @@ _______
 
 3. Interface do Grasshopper
 
-    - [Janela do Grasshopper](./gh_interface/gh_inter.md)
-    - [Sliders](./Slider/Slider_config.md)
-    - [Panels](./Panels/Painel_config.MD)
-
-4. Atividade 01 
-
-   - [Sequência de pilares](./gh_pilares/gh_pilares.md)
+   - [Janela do Grasshopper](./gh_interface/gh_inter.md)
+   - [Sliders](./Slider/Slider_config.md)
+   - [Panels](./Panels/Painel_config.MD)
    - Pontos
    - Vetores
    - Linhas
@@ -44,6 +40,11 @@ _______
    - Curvas
    - Pipe
    - Listas    
+
+
+4. Atividade 01 
+
+   - [Sequência de pilares](./gh_pilares/gh_pilares.md)
 
 _______
 
@@ -60,7 +61,7 @@ _______
     - Construção - atributos essenciais
     - Extração de atributos (desconstrução)
 
-1. Atividade 02 - Brise Paramétrico - Parte I
+##### Atividade 02 - Brise Paramétrico - Parte I
 
     - Clusters
     - [Arquivo final](./brise_parametrico_2021.gh)
@@ -69,16 +70,47 @@ _______
 
 ### Atividade 02 - parte 2
 
-1. Planos - continuação
+ - Listas - continuação
+ - dados booleanos e condicionais
 
-1. Listas - continuação
+##### Atividade 02 - Brise Paramétrico - Parte II
 
-1. Atividade 02 - Brise Paramétrico - Parte II
+### Atividade 03 - Morph
+
+ - [Morph](./gh_morph/gh_morph.md)
+ - Nurbs
+ - Coordenadas UV
+ - Domínios
+ - Bounding box
+
+### Atividade 04 - Múltiplos pavimentos
+
+ - curvas
+ - planos
+ - listas
+ - domínio
+ - sequência
+
+  [Atividade 04 - Múltiplos pavimentos](./gh_multi_pav/gh_multi_pav.md)
+
+### Interoperabilidade
+
+ - rhino.Inside
+   - Revit
+   - Autocad
+   - Unity
+   - Tekla
+   - Python
+
+ - Rhino Grasshopper Archicad connect
+ - Grasshopper e BricsCad
 
 
-2. Dúvidas sobre a avaliação
+### Final de curso
 
-3. Comentários sobre o curso
+ - Dúvidas sobre a avaliação
+
+ - Comentários sobre o curso
 
 _______
 
