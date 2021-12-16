@@ -130,7 +130,9 @@ _______
 
 #### BIM e Automação de processos construtivos
 
-[Conexão **Rhinoceros/Grasshopper** - **Archicad** - Demonstração e Download](https://www.graphisoft.com/br/archicad/rhino-grasshopper/index.html)
+[Conexão **Rhinoceros/Grasshopper** - **Archicad**](https://www.graphisoft.com/br/archicad/rhino-grasshopper/index.html)
+
+[Conexão **Rhinoceros/Grasshopper** - **Archicad** Download Archicad 25](https://graphisoft.com/downloads/addons/interoperability/rhino?#live-connection-plugin)
 
 [Conexão **Rhino/Grasshopper** - **Revit** - apresentação do *workflow*](https://www.youtube.com/watch?v=ylPe7nS69hg)
 
