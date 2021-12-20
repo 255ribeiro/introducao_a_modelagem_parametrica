@@ -23,7 +23,6 @@ _______
 
 2. [Introdução à Modelagem Paramétrica](slides/Intro_modelagem_param_MBI_BIM.pdf)
 
-
 _______
 
 ### Introdução - parte 2
@@ -130,17 +129,19 @@ _______
 
 #### BIM e Automação de processos construtivos
 
-[Conexão **Rhinoceros/Grasshopper** - **Archicad**](https://www.graphisoft.com/br/archicad/rhino-grasshopper/index.html)
+1. [Conexão **Rhinoceros/Grasshopper** - **Archicad** Download Archicad 25](https://graphisoft.com/downloads/addons/interoperability/rhino?#live-connection-plugin)
 
-[Conexão **Rhinoceros/Grasshopper** - **Archicad** Download Archicad 25](https://graphisoft.com/downloads/addons/interoperability/rhino?#live-connection-plugin)
+1. [Rhino.Inside Revit](https://www.food4rhino.com/en/app/rhinoinside-autodesk-revit)
 
-[Conexão **Rhino/Grasshopper** - **Revit** - apresentação do *workflow*](https://www.youtube.com/watch?v=ylPe7nS69hg)
+1. [Rhino.Inside Tekla Structures](https://www.food4rhino.com/en/resource/rhinoinside-tekla-structures)
 
-[Plug-in Grevit - exportação IFC/revit/Archicad - gratuito](https://www.food4rhino.com/app/grevit-grasshopper-native-bim)
+1. [Rhino.Inside Bricscad](https://www.bricsys.com/applications/a/?rhino/grasshopper-connection-for-bricscad-bim-a1353-al2360)
 
-[Detalhamento e Planilhamento autoático de elementos de fachada utilizando **Rhinoceros/Grasshopper** e o *plug-in* **Elefront** - apresentação do *workflow*](https://www.youtube.com/watch?v=i1A2fU_H4fA&t=31s)
+1. [Plug-in Grevit - exportação IFC/revit/Archicad - gratuito](https://www.food4rhino.com/app/grevit-grasshopper-native-bim)
 
-[Plug-in comercial VisualArq - BIM exportação IFC/Revit](https://www.visualarq.com/)
+1. [Detalhamento e Planilhamento autoático de elementos de fachada utilizando **Rhinoceros/Grasshopper** e o *plug-in* **Elefront** - apresentação do *workflow*](https://www.youtube.com/watch?v=i1A2fU_H4fA&t=31s)
+
+1. [Plug-in comercial VisualArq - BIM exportação IFC/Revit](https://www.visualarq.com/)
 
 #### Tutoriais gratuitos do Rhino e grasshopper
 
@@ -152,7 +153,10 @@ _______
 
 [Essential Mathematics for Computational Design](https://discourse.mcneel.com/t/the-essential-mathematics-third-edition/4049)
 
+[Essential Algorithms and Data Structures for Grasshopper ](https://www.food4rhino.com/en/resource/essential-algorithms-and-data-structures-grasshopper)
+
 [Parametric House](https://www.youtube.com/parametrichouse)
+
 
 _______
 _______
