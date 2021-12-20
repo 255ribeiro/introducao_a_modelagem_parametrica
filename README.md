@@ -119,9 +119,13 @@ _______
 
 [Rhino3d](https://www.rhino3d.com/)
 
-#### Comunidade e forum dos grasshopper
+#### Comunidade e fórum do Grasshopper
 
 [Grasshopper](https://www.grasshopper3d.com/)
+
+#### Fórum da Mcneel
+
+[fórum](https://discourse.mcneel.com/)
 
 #### Download de Plug-ins
 
@@ -129,19 +133,19 @@ _______
 
 #### BIM e Automação de processos construtivos
 
-1. [Conexão Rhinoceros/Grasshopper - Archicad Download Archicad 25](https://graphisoft.com/downloads/addons/interoperability/rhino?#live-connection-plugin)
+1. [Conexão Rhinoceros/Grasshopper - Archicad 25 Download](https://graphisoft.com/downloads/addons/interoperability/rhino?#live-connection-plugin)
 
-1. [Rhino.Inside Revit](https://www.food4rhino.com/en/app/rhinoinside-autodesk-revit)
+2. [Rhino.Inside Revit](https://www.food4rhino.com/en/app/rhinoinside-autodesk-revit)
 
-1. [Rhino.Inside Tekla Structures](https://www.food4rhino.com/en/resource/rhinoinside-tekla-structures)
+3. [Rhino.Inside Tekla Structures](https://www.food4rhino.com/en/resource/rhinoinside-tekla-structures)
 
-1. [Rhino.Inside Bricscad](https://www.bricsys.com/applications/a/?rhino/grasshopper-connection-for-bricscad-bim-a1353-al2360)
+4. [Rhino.Inside Bricscad](https://www.bricsys.com/applications/a/?rhino/grasshopper-connection-for-bricscad-bim-a1353-al2360)
 
-1. [Plug-in Grevit - exportação IFC/revit/Archicad - gratuito](https://www.food4rhino.com/app/grevit-grasshopper-native-bim)
+5. [Plug-in Grevit - exportação IFC/revit/Archicad - gratuito](https://www.food4rhino.com/app/grevit-grasshopper-native-bim)
 
-1. [Detalhamento e Planilhamento autoático de elementos de fachada utilizando Rhinoceros/Grasshopper e o plug-in Elefront - apresentação do workflow](https://www.youtube.com/watch?v=i1A2fU_H4fA&t=31s)
+6. [Detalhamento e Planilhamento autoático de elementos de fachada utilizando Rhinoceros/Grasshopper e o plug-in Elefront - apresentação do workflow](https://www.youtube.com/watch?v=i1A2fU_H4fA&t=31s)
 
-1. [Plug-in comercial VisualArq - BIM exportação IFC/Revit](https://www.visualarq.com/)
+7. [Plug-in comercial VisualArq - BIM exportação IFC/Revit](https://www.visualarq.com/)
 
 #### Tutoriais gratuitos do Rhino e grasshopper
 
