@@ -145,17 +145,17 @@ _______
 
 #### Tutoriais gratuitos do Rhino e grasshopper
 
-[Rhino Tutorials](https://www.youtube.com/channel/UCsWpNdwxf0I3ffkedM505xA/featured)
+1. [Rhino Tutorials](https://www.youtube.com/channel/UCsWpNdwxf0I3ffkedM505xA/featured)
 
-[Página de tutoriais do froum do Grasshopper](https://www.grasshopper3d.com/page/tutorials-1)
+1. [Página de tutoriais do froum do Grasshopper](https://www.grasshopper3d.com/page/tutorials-1)
 
-[Grasshopper Primer](https://www.modelab.is/grasshopper-primer)
+1. [Grasshopper Primer](https://www.modelab.is/grasshopper-primer)
 
-[Essential Mathematics for Computational Design](https://discourse.mcneel.com/t/the-essential-mathematics-third-edition/4049)
+1. [Essential Mathematics for Computational Design](https://discourse.mcneel.com/t/the-essential-mathematics-third-edition/4049)
 
-[Essential Algorithms and Data Structures for Grasshopper ](https://www.food4rhino.com/en/resource/essential-algorithms-and-data-structures-grasshopper)
+1. [Essential Algorithms and Data Structures for Grasshopper ](https://www.food4rhino.com/en/resource/essential-algorithms-and-data-structures-grasshopper)
 
-[Parametric House](https://www.youtube.com/parametrichouse)
+1. [Parametric House](https://www.youtube.com/parametrichouse)
 
 
 _______
