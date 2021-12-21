@@ -147,7 +147,7 @@ _______
 
 7. [Plug-in comercial VisualArq - BIM exportação IFC/Revit](https://www.visualarq.com/)
 
-#### Tutoriais gratuitos do Rhino e grasshopper
+#### Tutoriais gratuitos do Rhino e Grasshopper
 
 1. [Rhino Tutorials](https://www.youtube.com/channel/UCsWpNdwxf0I3ffkedM505xA/featured)
 
@@ -160,6 +160,8 @@ _______
 1. [Essential Algorithms and Data Structures for Grasshopper ](https://www.food4rhino.com/en/resource/essential-algorithms-and-data-structures-grasshopper)
 
 1. [Parametric House](https://www.youtube.com/parametrichouse)
+
+1. [Think Parametric](https://www.youtube.com/c/Thinkparametric)
 
 
 _______
