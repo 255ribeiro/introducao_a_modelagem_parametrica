@@ -51,19 +51,20 @@ _______
 
 1. [Manipulação de listas](./gh_list_intro/gh_list_basics.md)
 
-    - Seleção de um elemento de uma lista pelo **Índice**
-    - Exclusão de um elemento de uma lista pelo **Índice**
-    - **Shift List**
+  - Seleção de um elemento de uma lista pelo **Índice**
+  - Exclusão de um elemento de uma lista pelo **Índice**
+  - **Shift List**
 
 1. [Vetores e Planos](./gh_vect_plane/vect_plane_basics.md)
 
-    - Construção - atributos essenciais
-    - Extração de atributos (desconstrução)
+  - Construção - atributos essenciais
+  - Extração de atributos (desconstrução)
 
 ##### Atividade 02 - Brise Paramétrico - Parte I
 
  - Clusters
- - [Arquivo final](./brise_parametrico_2021.gh)
+ - Domínios
+ - [Arquivo final](./gh_brise/brise_parametrico_2021.gh)
 
 _______
 
@@ -73,6 +74,7 @@ _______
  - dados booleanos e condicionais
 
 ##### Atividade 02 - Brise Paramétrico - Parte II
+ - [Arquivo final](./gh_brise/brise_parametrico_2021b.gh)
 
 ### Atividade 03 - Morph
 
