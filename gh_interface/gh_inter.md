@@ -20,7 +20,7 @@ ____________
 5. Canvas
 6. Status bar
 
-Os componetes do **GrasShopper** estão organzados em abas. Cada aba contem um ou mais paletas que abrigam os componentes (as vezes chamados de baterias) do **Grasshopper**.
+Os componentes do **Grasshopper** estão organizados em abas. Cada aba contem um ou mais paletas que abrigam os componentes (as vezes chamados de baterias) do **Grasshopper**.
 
 
 ____________
