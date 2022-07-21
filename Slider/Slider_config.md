@@ -58,18 +58,30 @@ Na imagem abaixo, digitamos as letras **num**, e vemos, dentre outras opções, 
 
 Ainda assim, no caso dos **Sliders**, recebemos as mesmas configurações inicias que receberíamos se tivéssemos usado o ícone na **TAB** **Params**.
 
-Existem formas de utilizar os atalhos do **Grasshopper** para pre-configurar um **Slider**. Uma delas é digitar 3 valores numéricos separados pelo caractere **<**:
+Existem formas de utilizar os atalhos do **Grasshopper** para pre-configurar um **Slider**. 
+
+### Digitando 3 valores separados pelo caractere < (menor que)
 
 1. clique duas vezes(botão esquerdo) em um espaço vazio da tela.
 2. digite o valor mínimo do **Slider** (pode ser zero ou valores positivos ou negativos)
 3. utilize o caractere **<** (menor que) para separar os valores.
 4. digite um outro valor. Neste caso, o segundo valor digitado é o valor onde o novo **Slider** aparecerá  configurado na tela.
 5. utilize novamente o caractere **<** e digite o valor máximo do **Slider**.
-6. Aperte a tecla enter.
+6. Aperte a tecla **enter**.
 
 ![short_slider](./slider_short.gif)
 
 Se os valores são todos números inteiros, o *Slider* ficará configurado como um número inteiro (marcado pela letra **N** no editor do **Slider**). Para configurar números reais **R** utilize casas decimais em pelo menos um dos valores numéricos. Caso queira que os valores sejam números "redondos", utilize uma sequência de 0(zeros) depois do separador de decimais. Duas casas decimais equivalem a configurar o valor de **Digits** no editor para **2**. Caso os valores tenham número de casas diferentes, a configuração do **Digits** será igual ao número de casas decimais do valor digitados com maior número de casas decimais.
+
+##### Obs: os valores precisam ser digitados em ordem crescente (mínimo < ajuste inicial < máximo).
+
+### Digitando 2 valores separados pelo caractere < (menor que)
+
+Quando digitamos apenas dois valores numéricos, a configuração inicial do **Slider** aparece ajustada para o valor mínimo (primeiro valor digitado).
+
+### Separando valores com 3 pontos (...)
+
+Os valores podem ser separados por ... substituindo o caractere < mantendo a mesma lógica para 3 ou 2 valores digitados.
 
 __________
 __________
