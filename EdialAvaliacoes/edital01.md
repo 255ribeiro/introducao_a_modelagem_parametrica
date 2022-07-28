@@ -8,7 +8,7 @@
 
 _________________
 
-1. Elaborar um documento contento aplicações e ilustrações dos seguintes conceitos:
+1. Elaborar um documento contendo aplicações e ilustrações dos seguintes conceitos:
 
     1. Ponto
     1. Vetor
@@ -17,9 +17,9 @@ _________________
 
 1. As aplicações devem ser ilustradas, utilizando algoritmos e imagens extraídas do ambiente de trabalho Rhinoceros3D/grasshopper.
 
-1. O arquivo deve ser enviado em PDF por e-mail até uma semana após o fim das aulas da disciplina.
+2. O arquivo deve ser enviado em PDF na atividade postada no Google Classroom Na data estipulada para a atividade.
 
-1. Os trabalhos são individuais.
+3. Os trabalhos são individuais.
 
 ### Objetivos da Avaliação
 
