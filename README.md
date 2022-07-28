@@ -63,7 +63,7 @@ _______
 
 ##### Atividade 02 - Brise Paramétrico - Parte I
 
- - Clusters
+ - [Clusters](./gh_clusters/clusters.md)
  - Domínios
  - [Arquivo final](./gh_brise/brise_parametrico_2021.gh)
 
