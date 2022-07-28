@@ -156,7 +156,7 @@ _______
 
 1. [Página de tutoriais do froum do Grasshopper](https://www.grasshopper3d.com/page/tutorials-1)
 
-1. [Grasshopper Primer](https://www.modelab.is/grasshopper-primer)
+1. [Modelab Grasshopper Primer](https://aae280.files.wordpress.com/2014/10/mode-lab-grasshopper-primer-third-edition.pdf)
 
 1. [Essential Mathematics for Computational Design](https://discourse.mcneel.com/t/the-essential-mathematics-third-edition/4049)
 
