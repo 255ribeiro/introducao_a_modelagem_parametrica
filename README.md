@@ -145,10 +145,12 @@ _______
 4. [Rhino.Inside Bricscad](https://www.bricsys.com/applications/a/?rhino/grasshopper-connection-for-bricscad-bim-a1353-al2360)
 
 5. [Plug-in Grevit - exportação IFC/revit/Archicad - gratuito](https://www.food4rhino.com/app/grevit-grasshopper-native-bim)
+   
+6. [speckle.systems](https://speckle.systems/)
 
-6. [Detalhamento e Planilhamento autoático de elementos de fachada utilizando Rhinoceros/Grasshopper e o plug-in Elefront - apresentação do workflow](https://www.youtube.com/watch?v=i1A2fU_H4fA&t=31s)
+7. [Detalhamento e Planilhamento autoático de elementos de fachada utilizando Rhinoceros/Grasshopper e o plug-in Elefront - apresentação do workflow](https://www.youtube.com/watch?v=i1A2fU_H4fA&t=31s)
 
-7. [Plug-in comercial VisualArq - BIM exportação IFC/Revit](https://www.visualarq.com/)
+8. [Plug-in comercial VisualArq - BIM exportação IFC/Revit](https://www.visualarq.com/)
 
 #### Tutoriais gratuitos do Rhino e Grasshopper
 
@@ -166,6 +168,7 @@ _______
 
 1. [Think Parametric](https://www.youtube.com/c/Thinkparametric)
 
+1. [Introduction to Grasshopper](https://medium.com/intro-to-grasshopper)
 
 _______
 _______
