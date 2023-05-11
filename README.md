@@ -95,6 +95,10 @@ _______
 
   [Atividade 04 - Múltiplos pavimentos](./gh_multi_pav/gh_multi_pav.md)
 
+### Instalando pacotes
+
+[Instalando pacotes no Rhino e Grasshopper]
+
 ### Interoperabilidade
 
  - rhino.Inside
