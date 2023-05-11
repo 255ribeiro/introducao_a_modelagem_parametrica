@@ -97,7 +97,7 @@ _______
 
 ### Instalando pacotes
 
-[Instalando pacotes no Rhino e Grasshopper]
+[Instalando pacotes no Rhino e Grasshopper](./install_packages/install_packages.md)
 
 ### Interoperabilidade
 
