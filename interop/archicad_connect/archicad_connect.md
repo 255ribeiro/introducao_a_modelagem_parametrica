@@ -10,7 +10,7 @@ Baixe a última atualização disponível para o seu sistema operacional
 
 ### Instalação
 
-Baixe a versão mais nova do Grasshopper – Archicad Live Connection no site abaixo e siga as inforamções de instalação.
+Baixe a versão mais nova para o seus sistema operacional do Grasshopper – Archicad Live Connection no site abaixo e siga as inforamções de instalação.
 [https://graphisoft.com/downloads/addons/interoperability/rhino](https://graphisoft.com/downloads/addons/interoperability/rhino)
 
 
