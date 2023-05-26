@@ -6,7 +6,9 @@
 
 [Instruções de instalação](./speckle/speckle_install.md)
 
+## Rhino inside
 
+### Instalação
 
  - rhino.Inside
    - Revit
@@ -14,6 +16,15 @@
    - Unity
    - Tekla
    - Python
+   - Bricscad
 
- - Rhino Grasshopper Archicad connect
- - Grasshopper e BricsCad
+[Instruções de instalação]()
+
+
+## Grasshopper Archicad Connect
+
+### Instalação
+
+[Instruções de instalação]()
+
+ 
