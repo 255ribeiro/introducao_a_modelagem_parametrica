@@ -101,16 +101,7 @@ _______
 
 ### Interoperabilidade
 
- - rhino.Inside
-   - Revit
-   - Autocad
-   - Unity
-   - Tekla
-   - Python
-
- - Rhino Grasshopper Archicad connect
- - Grasshopper e BricsCad
-
+[Principais plugins de interoperabilidade](./interop/interop.md)
 
 ### Final de curso
 
