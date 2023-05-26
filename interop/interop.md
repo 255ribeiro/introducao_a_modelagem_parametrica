@@ -18,7 +18,7 @@
    - Python
    - Bricscad
 
-[Instruções de instalação]()
+<!-- [Instruções de instalação]() -->
 
 
 ## Grasshopper – Archicad Live Connection
