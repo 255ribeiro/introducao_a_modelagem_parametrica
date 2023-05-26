@@ -21,7 +21,7 @@
 [Instruções de instalação]()
 
 
-## Grasshopper Archicad Connect
+## Grasshopper – Archicad Live Connection
 
 ### Instalação
 
