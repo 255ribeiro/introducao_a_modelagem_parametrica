@@ -14,6 +14,8 @@ e
 
 ## Instalado o Speckle Manager
 
+Acesse o site [https://speckle.xyz/](https://speckle.xyz/) e faça uma conta no servidor Speckle.
+
 No site abaixo:
 [https://speckle.systems/download/](https://speckle.systems/download/)
 
