@@ -23,3 +23,15 @@ Após a instalação, é preciso abrir o programa (área de notificações do Wi
 
 ![Archicad install](./speckle_manager_install_connector.gif)
 
+### Para este curso, precisamos usar os seguintes conectores:
+
+- Rhino
+- Grasshopper
+- Revit
+- Dynamo
+- Archicad
+
+
+_________________
+_________________
+
