@@ -25,6 +25,6 @@
 
 ### Instalação
 
-[Instruções de instalação]()
+[Instruções de instalação](./archicad_connect/archicad_connect.md)
 
  
