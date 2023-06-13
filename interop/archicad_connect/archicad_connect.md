@@ -25,8 +25,12 @@ Após a instalação, abra o **Archicad** e verifique se o plug-in aparece no ge
 
 Verifique se o **Grasshopper – Archicad Live Connection** aparece na lista de **Add Ons** instalados.
 
-![archicad_addon_manager_grass_connect](./archicad_addon_manager_grass_connect.jpg)
+![Archicad_addon_manager_grass_connect](./archicad_addon_manager_grass_connect.jpg)
 
-No **Rhinoceros**, Abra o **Grasshopper** conforme instruções abaixo e verifiquei se aparece um menu **"Archicad"** na tela do **Grasshopper**.
+A paleta do **Grasshopper** pode ser aberta em ```Windows -> Palettes -> Grasshopper Connection```
+
+![Grasshopper Pallet](./grasshopper_pallet_archicad.jpg)
+
+No **Rhinoceros v7**, Abra o **Grasshopper** conforme instruções abaixo e verifiquei se aparece um menu **"Archicad"** na tela do **Grasshopper**.
 
 ![Grasshopper Archicad](./grasshopper_archicad_menu.jpg)
