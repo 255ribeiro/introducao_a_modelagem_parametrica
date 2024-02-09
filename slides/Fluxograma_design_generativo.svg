@@ -29,7 +29,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="0.69219276"
      inkscape:cx="415.34673"
-     inkscape:cy="569.92795"
+     inkscape:cy="571.37263"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -367,7 +367,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.2;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0.00487238px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.0920766"
          x="121.89892"
          y="197.81482"
-         id="tspan23">iniciais regra/algoritmo</tspan></text><text
+         id="tspan23" /></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0.00487238px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0920764;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.196423;stroke-opacity:1"
        x="82.819931"
@@ -415,4 +415,4 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text1"
-       style="fill:#000000;line-height:1.2;white-space:pre;shape-inside:url(#rect6)" /></g></svg>
+       style="line-height:1.2;white-space:pre;shape-inside:url(#rect6);fill:#000000" /></g></svg>
