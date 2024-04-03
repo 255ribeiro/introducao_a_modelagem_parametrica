@@ -28,6 +28,8 @@ _______
 
 ### Introdução - parte 2
 
+![alt text](slides/Fluxograma_design_generativo.png)
+
 3. Interface do Grasshopper
 
    - [Janela do Grasshopper](./gh_interface/gh_inter.md)
