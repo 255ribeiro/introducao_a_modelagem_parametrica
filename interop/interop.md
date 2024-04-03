@@ -10,8 +10,8 @@
 
 ### Instalação
 
- - rhino.Inside
-   - Revit
+ - rhino.Inside - [https://www.rhino3d.com/features/rhino-inside/](https://www.rhino3d.com/features/rhino-inside/)
+   - Revit - [https://www.rhino3d.com/inside/revit/](https://www.rhino3d.com/inside/revit/)
    - Autocad
    - Unity
    - Tekla

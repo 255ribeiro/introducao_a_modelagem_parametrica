@@ -1,0 +1,1 @@
+Segundo esta metodologia, através de uma ideia que serve de base para o projeto, um algoritmo (conjunto de regras) é definido, e implementado em uma linguagem de programação ou ambiente de programação visual (e.g. Grasshopper, Dynamo, etc). A implementação é chamada de “código fonte” no diagrama. 
