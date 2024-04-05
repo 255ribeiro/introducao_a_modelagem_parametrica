@@ -25,7 +25,7 @@ Também podem ser carregados por atalho, clicando duas vezes na tela e digitando
 //
 ```
 
-Eles se alimentam de dados de diversos tipos: em sua maioria, textos. 
+
 
 __________
 ## O que comem?
