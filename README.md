@@ -175,5 +175,7 @@ _______
 
 1. [Introduction to Grasshopper](https://medium.com/intro-to-grasshopper)
 
+1. [oficina paramétrica](https://www.youtube.com/@OficinaParametrica)
+
 _______
 _______
