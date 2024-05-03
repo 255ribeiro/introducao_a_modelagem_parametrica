@@ -18,9 +18,14 @@ __________
 
 ## Partes de um slider
 
-Os sliders podem ser divididos em duas partes. Na primeira temos o nome do slider, na segunda o valor utilizado no fluxo do algoritmo. A maneira mais direta de se alterar o valor de um slider é mover o elemento deslizante na segunda parte do slider.
+Os sliders podem ser divididos em duas partes. Na primeira, da esquerda para a direita, temos o nome do slider, na segunda o valor utilizado no fluxo do algoritmo.
 
 ![partes de um slider](partes_do_slider.png)
+
+
+ A maneira mais direta de se alterar o valor de um slider é mover o elemento deslizante na segunda parte do slider.
+
+ ![alt text](slider_slide_value.gif)
 
 Os valores também podem ser alterados em um slider com um duplo clique na segunda parte, digitando o valor desejado e apertando o botão verde ou a tecla ```enter```. Um clique fora da caixa do slider cancela a mudança.
 
