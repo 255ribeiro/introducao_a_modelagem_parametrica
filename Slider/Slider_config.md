@@ -12,7 +12,7 @@ __________
 
 ![como criar um componente slider](slider_loc.png)
 
-O componente Slider se localiza na aba **Param**, na paleta **Input**, como mostrado na figura acima.
+O componente Slider se localiza na aba **Param**, na paleta **Input**, como mostrado na figura acima. Nas ilustrações deste guia foram também utilizados os componentes construct Point (aba: vector, paleta: points e componente: Construct Point) e Panel (aba: Param, paleta: Input e componente: Panel).
 
 __________
 
