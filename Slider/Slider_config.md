@@ -22,7 +22,7 @@ Os sliders podem ser divididos em duas partes. Na primeira temos o nome do slide
 
 ![partes de um slider](partes_do_slider.png)
 
-Os valores também podem ser alterados em um slider clicando na segunda parte, digitando o valor desejado e apertando o botão verde ou a tecla ```enter```.
+Os valores também podem ser alterados em um slider com um duplo clique na segunda parte, digitando o valor desejado e apertando o botão verde ou a tecla ```enter```. Um clique fora da caixa do slider cancela a mudança.
 
 ![alt text](slider_set_value.gif)
 __________
