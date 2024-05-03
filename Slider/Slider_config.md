@@ -4,7 +4,7 @@ __________
 
 ## O que é um slider no Grasshopper
 
-Os sliders são os principais componentes para controlar, aterar e exploara o conjunto de soluções possíveis para um modelo paramétrico, quando os parâmetros de entrada são **números**.
+Os sliders são os principais componentes para controlar, aterar e exploara o conjunto de soluções possíveis para um modelo paramétrico quando os parâmetros de entrada são **números**.
 
 __________
 
@@ -20,10 +20,11 @@ __________
 
 Os sliders podem ser divididos em duas partes. Na primeira temos o nome do slider, na segunda o valor utilizado no fluxo do algoritmo. A maneira mais direta de se alterar o valor de um slider é mover o elemento deslizante na segunda parte do slider.
 
-Os valores também podem ser alterados em um slider clicando na segunda parte, digitando o valor desejado e apertando o botão verde.
-
 ![partes de um slider](partes_do_slider.png)
 
+Os valores também podem ser alterados em um slider clicando na segunda parte, digitando o valor desejado e apertando o botão verde ou a tecla ```enter```.
+
+![alt text](slider_set_value.gif)
 __________
 
 ## Editando um slider
