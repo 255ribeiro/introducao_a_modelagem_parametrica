@@ -52,6 +52,8 @@
 
 Pode-se escolher um icone personalizado para o seu pacote. Icones gratúitos podem ser baixados em [https://iconify.design/](https://iconify.design/).
 
+[exemplo de icone](ICON_face_plane_rotate.png)
+
 ![img](cluster_17.png)
 
 ## Onde ficam armazenados os Cluters
