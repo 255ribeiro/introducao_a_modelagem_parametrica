@@ -50,6 +50,8 @@
 
 ![img](cluster_16.png)
 
+Pode-se escolher um icone personalizado para o seu pacote. Icones gratúitos podem ser baixados em [https://iconify.design/](https://iconify.design/).
+
 ![img](cluster_17.png)
 
 ## Onde ficam armazenados os Cluters
