@@ -14,3 +14,6 @@
 [Exemplo Python](https://github.com/jonasbarbosa/trabalhofinalLPACAF)
 
 [painéis triangulares aleatórios](../dl_assets/paineis_triangulares_aleatórios.gh)
+
+
+[Painéis vazados](https://255ribeiro.github.io/Alg_gen_painel/)
