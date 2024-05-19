@@ -87,12 +87,12 @@ _______
 ![brise_parte_02](./gh_brise/exemplo_brise_parte_02.png)
  - [Arquivo final](./gh_brise/brise_parametrico_2021b.gh)
 
-### Treliças
+### Treliças - 03
 
 [Treliças](gh_treliças/trelicas.md)
 
 
-### Atividade 03 - Morph
+### Atividade 04 - Morph
 
  - [Morph](./gh_morph/gh_morph.md)
  - Nurbs
@@ -100,7 +100,7 @@ _______
  - Domínios
  - Bounding box
 
-### Atividade 04 - Múltiplos pavimentos
+### Atividade 05 - Múltiplos pavimentos
 
  - curvas
  - planos
@@ -112,6 +112,11 @@ _______
 
   
   [Pavimentos com posição aleatória](gh_multi_pav/random_tower.gh)
+
+
+### Atividade 06 - Attractors
+
+[Atratores](./gh_attractors/attractors.md)
 
 ### Instalando pacotes
 

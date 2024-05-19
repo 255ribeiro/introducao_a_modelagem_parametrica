@@ -12,3 +12,5 @@
 [Exemplo Mies](./Exemplo_Mies_rhino7.gh)
 
 [Exemplo Python](https://github.com/jonasbarbosa/trabalhofinalLPACAF)
+
+[painéis triangulares aleatórios](../dl_assets/paineis_triangulares_aleatórios.gh)
