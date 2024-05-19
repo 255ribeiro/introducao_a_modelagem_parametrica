@@ -87,6 +87,11 @@ _______
 ![brise_parte_02](./gh_brise/exemplo_brise_parte_02.png)
  - [Arquivo final](./gh_brise/brise_parametrico_2021b.gh)
 
+### Treliças
+
+[Treliças](gh_treliças/trelicas.md)
+
+
 ### Atividade 03 - Morph
 
  - [Morph](./gh_morph/gh_morph.md)
