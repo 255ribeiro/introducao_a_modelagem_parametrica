@@ -3,7 +3,7 @@
 _______________
 ## Abrindo o Grasshopper
 
-Para iniciar o grasshopper, digite **Grasshopper** na linha de comando do **Rhino**, ou clicado no ícone do **Grasshopper** na aba **Standard**, conforme figura abaixo:
+Para iniciar o grasshopper, digite **Grasshopper** na linha de comando do **Rhino**, ou clique no ícone do **Grasshopper** na aba **Standard**, conforme figura abaixo:
 
 ![launch](./gh_launch.jpg)
 
