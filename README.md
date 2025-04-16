@@ -194,7 +194,7 @@ _______
 
 1. [Think Parametric](https://www.youtube.com/c/Thinkparametric)
 
-1. [Introduction to Grasshopper](https://medium.com/intro-to-grasshopper)
+1. [Introduction to Grasshopper - Danil Nagy](https://medium.com/intro-to-grasshopper)
 
 1. [Oficina Paramétrica](https://www.youtube.com/@OficinaParametrica)
 
