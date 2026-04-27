@@ -117,7 +117,7 @@ _______
 
 ### Instalando pacotes
 
-[Instalando pacotes no Rhino e Grasshopper](./install_packages/install_packages.md)
+[Instalando pacotes no Rhino e Grasshopper](docs/install_packages/install_packages.md)
 
 ### Elefront
 

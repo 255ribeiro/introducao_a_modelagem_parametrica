@@ -29,12 +29,11 @@ nav = [
 {"Configurações de atalhos" = "https://255ribeiro.github.io/intro_rhino/atalhosRhino/atalhosRhino"}
 ]},
 {"Sobre o Grashopper" = "grass_about/grass_about.md"},
-{"Interface" = [
-{"Janela do Grasshopper" = "gh_interface/gh_inter.md"},
+{"Interface" = "gh_interface/gh_inter.md"},
+
 {"Sliders" = "Slider/Slider_config.md"},
 {"Panels" = "Panels/Painel_config.md"},
 
-]},
 
 {"Manipulação de listas" = "gh_list_intro/gh_list_basics.md"},
 {"Pontos, Vetores e Planos" = "gh_vect_plane/vect_plane_basics.md"},
