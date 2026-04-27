@@ -26,13 +26,13 @@ extra_javascript = [
 nav = [
 {"Home" = "index.md" },
 {"Pré-requisitos" = [{"Rhinoceros 3D" = "https://255ribeiro.github.io/intro_rhino/"},
-{"Configurações de atalhos" = "https://255ribeiro.github.io/intro_rhino/atalhosRhino/atalhosRhino.html"}
+{"Configurações de atalhos" = "https://255ribeiro.github.io/intro_rhino/atalhosRhino/atalhosRhino"}
 ]},
 {"Sobre o Grashopper" = "grass_about/grass_about.md"},
 {"Interface" = [
 {"Janela do Grasshopper" = "gh_interface/gh_inter.md"},
 {"Sliders" = "Slider/Slider_config.md"},
-{"Panels" = "Panels/Painel_config.MD"},
+{"Panels" = "Panels/Painel_config.md"},
 
 ]},
 

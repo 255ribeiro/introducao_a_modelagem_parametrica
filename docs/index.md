@@ -4,7 +4,7 @@ _______
 
 <!-- ## MBI BIM | SENAI-CIMATEC | 2021.2 -->
 
-## Prof. Fernando Ferraz Ribeiro | ffribeiro@gmail.com
+## Prof. Fernando Ferraz Ribeiro | <ffribeiro@gmail.com>
 
 _______
 
@@ -30,11 +30,11 @@ _______
 
 ![alt text](slides/Fluxograma_design_generativo.png)
 
-3. Interface do Grasshopper
+1. Interface do Grasshopper
 
    - [Janela do Grasshopper](./gh_interface/gh_inter.md)
    - [Sliders](./Slider/Slider_config.md)
-   - [Panels](./Panels/Painel_config.MD)
+   - [Panels](./Panels/Painel_config.md)
    - Pontos
    - Vetores
    - Linhas
@@ -42,14 +42,13 @@ _______
    - Curvas
    - Pipe
    - Listas
-   - 
+   -
 
-
-4. Atividade 01 
+2. Atividade 01
 
    - [Sequência de pilares](./gh_pilares/gh_pilares.md)
 
-   - [Grasshopper Exemplos](./gh_exemplos/gh-exemplos.md) 
+   - [Grasshopper Exemplos](./gh_exemplos/gh-exemplos.md)
 
 _______
 
@@ -57,67 +56,65 @@ _______
 
 1. [Manipulação de listas](./gh_list_intro/gh_list_basics.md)
 
-  - Seleção de um elemento de uma lista pelo **Índice**
-  - Exclusão de um elemento de uma lista pelo **Índice**
-  - **Shift List**
+- Seleção de um elemento de uma lista pelo **Índice**
+- Exclusão de um elemento de uma lista pelo **Índice**
+- **Shift List**
 
-1. [Vetores e Planos](./{gh_vect_plane/vect_plane_basics.md})
+1. [Vetores e Planos](./gh_vect_plane/vect_plane_basics.md)
 
-  - Construção - atributos essenciais
-  - Extração de atributos (desconstrução)
+- Construção - atributos essenciais
+- Extração de atributos (desconstrução)
 
-##### Atividade 02 - Brise Paramétrico - Parte I
-
-
+### Atividade 02 - Brise Paramétrico - Parte I
 
 ![brise_parte_01](./gh_brise/exemplo_brise_parte_01.png)
- - [Clusters](./gh_clusters/clusters.md)
- - Domínios
- - [Arquivo final](./gh_brise/brise_parametrico_2021.gh)
+
+- [Clusters](./gh_clusters/clusters.md)
+
+- Domínios
+
+- [Arquivo final](./gh_brise/brise_parametrico_2021.gh)
 
 _______
 
 ### Atividade 02 - parte 2
 
- - Listas - continuação
- - dados booleanos e condicionais
+- Listas - continuação
+- dados booleanos e condicionais
 
-##### Atividade 02 - Brise Paramétrico - Parte II
-
+### Atividade 02 - Brise Paramétrico - Parte II
 
 ![brise_parte_02](./gh_brise/exemplo_brise_parte_02.png)
- - [Arquivo final](./gh_brise/brise_parametrico_2021b.gh)
+
+- [Arquivo final](./gh_brise/brise_parametrico_2021b.gh)
 
 ### Treliças - 03
 
 [Treliças](gh_treliças/trelicas.md)
 
-
 ### Atividade 04 - Morph
 
- - [Morph](./gh_morph/gh_morph.md)
- - Nurbs
- - Coordenadas UV
- - Domínios
- - Bounding box
+- [Morph](./gh_morph/gh_morph.md)
+- Nurbs
+- Coordenadas UV
+- Domínios
+- Bounding box
 
 ### Atividade 05 - Múltiplos pavimentos
 
- - curvas
- - planos
- - listas
- - domínio
- - sequência
+- curvas
+- planos
+- listas
+- domínio
+- sequência
 
-  [Atividade 04 - Múltiplos pavimentos](./gh_multi_pav/gh_multi_pav.md)
+  [Atividade 04 - Múltiplos pavimentos](gh_multi_pav/gh_multi_pav.md)
 
-  
   [Pavimentos com posição aleatória](gh_multi_pav/random_tower.gh)
-
 
 ### Atividade 06 - Attractors
 
-[Atratores](./gh_attractors/attractors.md)
+[Atratores](gh_attractors/attractors.md)
 
 ### Instalando pacotes
 
@@ -137,9 +134,9 @@ _______
 
 ### Final de curso
 
- - Dúvidas sobre a avaliação
+- Dúvidas sobre a avaliação
 
- - Comentários sobre o curso
+- Comentários sobre o curso
 
 _______
 
@@ -172,7 +169,7 @@ _______
 4. [Rhino.Inside Bricscad](https://www.bricsys.com/applications/a/?rhino/grasshopper-connection-for-bricscad-bim-a1353-al2360)
 
 5. [Plug-in Grevit - exportação IFC/revit/Archicad - gratuito](https://www.food4rhino.com/app/grevit-grasshopper-native-bim)
-   
+
 6. [speckle.systems](https://speckle.systems/)
 
 7. [Detalhamento e Planilhamento autoático de elementos de fachada utilizando Rhinoceros/Grasshopper e o plug-in Elefront - apresentação do workflow](https://www.youtube.com/watch?v=i1A2fU_H4fA&t=31s)
@@ -189,7 +186,7 @@ _______
 
 1. [Essential Mathematics for Computational Design](https://discourse.mcneel.com/t/the-essential-mathematics-third-edition/4049)
 
-1. [Essential Algorithms and Data Structures for Grasshopper ](https://www.food4rhino.com/en/resource/essential-algorithms-and-data-structures-grasshopper)
+1. [Essential Algorithms and Data Structures for Grasshopper](https://www.food4rhino.com/en/resource/essential-algorithms-and-data-structures-grasshopper)
 
 1. [Parametric House](https://www.youtube.com/parametrichouse)
 
