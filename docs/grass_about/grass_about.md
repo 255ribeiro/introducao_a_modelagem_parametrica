@@ -17,19 +17,6 @@ A partir da versão **Rhino 6**, o Grasshopper passou a ser instalado nativament
 
 ---
 
-## Interface
-
-A interface do Grasshopper é composta por:
-
-| Elemento | Descrição |
-|---|---|
-| **Canvas** | Área de trabalho onde os componentes são posicionados e conectados |
-| **Toolbar** | Barra de ferramentas com acesso às abas de componentes |
-| **Abas de componentes** | Organizam os componentes por categoria (Params, Maths, Sets, Vector, Curve, Surface, Mesh, etc.) |
-| **Painel de informações** | Exibe mensagens de erro e avisos dos componentes |
-
----
-
 ## Tipos de Dados
 
 O Grasshopper opera com os seguintes tipos de dados principais:
