@@ -28,7 +28,7 @@ nav = [
 {"Interface" = "gh_interface/gh_inter.md"},
 
 {"Sliders" = "Slider/Slider_config.md"},
-{"Panels" = "Panels/Painel_config.md"},
+{"Panels" = "gh_panels/panel_config.md"},
 {"Manipulação de listas" = "gh_list_intro/gh_list_basics.md"},
 
 
