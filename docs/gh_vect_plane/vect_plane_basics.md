@@ -1,3 +1,7 @@
+---
+icon: lucide/move-3d
+---
+
 # Pontos, Vetores e Planos
 
 [Arquivo exemplo](./vect_plane_basics.gh)
