@@ -59,9 +59,3 @@ Um dos conceitos fundamentais do Grasshopper é a manipulação de **listas** e 
 | **Weaverbird** | Subdivisão e manipulação de malhas |
 
 ---
-
-## Referências
-
-- Site oficial do Rhino/Grasshopper: <a href="https://www.rhino3d.com/6/new/grasshopper/" target="_blank">rhino3d.com</a>
-- Fórum da comunidade: <a href="https://discourse.mcneel.com/c/grasshopper/2" target="_blank">McNeel Discourse — Grasshopper</a>
-- Documentação de componentes: <a href="https://grasshopperdocs.com/" target="_blank">grasshopperdocs.com</a>
