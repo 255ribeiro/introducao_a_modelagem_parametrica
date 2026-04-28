@@ -22,7 +22,7 @@ extra_javascript = [
 
 nav = [
 {"Home" = "index.md" },
-{"Pré-requisitos" = "https://255ribeiro.github.io/intro_rhino/"},
+{"Pré-requisitos" = "pre_req/pre_req.md"},
 
 {"Sobre o Grashopper" = "grass_about/grass_about.md"},
 {"Interface" = "gh_interface/gh_inter.md"},
