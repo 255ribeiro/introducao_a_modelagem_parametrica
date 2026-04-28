@@ -40,11 +40,17 @@ nav = [
 
 {"Brise paramétrico" = "gh_brise/gh_brise.md"},
 
+{"Clusters" = "gh_clusters/clusters.md"},
+
 {"Atratores" = "gh_attractors/attractors.md"},
+
 {"Morph" = "gh_morph/gh_morph.md"},
+
 {"Instalando pacotes" = "install_packages/install_packages.md"},
-{"Exemplos" = "gh_exemplos/gh-exemplos.md"},
+
 {"Interoperabilidade" = "interop/interop.md"},
+
+{"Exemplos" = "gh_exemplos/gh-exemplos.md"},
 {"Links úteis" = "links_refs/links_refs.md"}
 ]
 
