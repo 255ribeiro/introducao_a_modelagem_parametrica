@@ -1,3 +1,7 @@
+---
+icon: lucide/folder-heart
+---
+
 Existem algumas pastas especiais no Grasshopper,
 
 elas podem ser acessadas no Grasshopper no caminho **File**->**Special Folders**

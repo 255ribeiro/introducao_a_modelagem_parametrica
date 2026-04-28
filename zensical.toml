@@ -26,6 +26,7 @@ nav = [
 
 {"Sobre o Grashopper" = "grass_about/grass_about.md"},
 {"Interface" = "gh_interface/gh_inter.md"},
+{"Special Folders" = "gh_interface/gh_special_folders.md"},
 
 {"Sliders" = "Slider/Slider_config.md"},
 {"Panels" = "gh_panels/panel_config.md"},
