@@ -51,6 +51,7 @@ nav = [
 [project.theme]
 variant = "classic"
 language = "pt-BR"
+favicon = "fontawesome/solid/locust"
 
 
 features = [
@@ -86,7 +87,8 @@ features = [
 ]
 
 [project.theme.icon]
-logo = "fontawesome/solid/globe"
+logo = "fontawesome/solid/locust"
+
 
 # Palette toggle for automatic mode
 [[project.theme.palette]]
