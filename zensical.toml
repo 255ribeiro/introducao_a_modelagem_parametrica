@@ -20,23 +20,28 @@ extra_javascript = [
 #     "javascripts/download_zip_folder.js"                                 # 2nd - your code that uses it
 ]
 
-
-
-
 nav = [
 {"Home" = "index.md" },
-{"Pré-requisitos" = [{"Rhinoceros 3D" = "https://255ribeiro.github.io/intro_rhino/"},
-{"Configurações de atalhos" = "https://255ribeiro.github.io/intro_rhino/atalhosRhino/atalhosRhino"}
-]},
+{"Pré-requisitos" = "https://255ribeiro.github.io/intro_rhino/"},
+
 {"Sobre o Grashopper" = "grass_about/grass_about.md"},
 {"Interface" = "gh_interface/gh_inter.md"},
 
 {"Sliders" = "Slider/Slider_config.md"},
 {"Panels" = "Panels/Painel_config.md"},
-
-
 {"Manipulação de listas" = "gh_list_intro/gh_list_basics.md"},
+
+
 {"Pontos, Vetores e Planos" = "gh_vect_plane/vect_plane_basics.md"},
+
+{"Sequência de Pilares" = "gh_pilares/gh_pilares.md"},
+
+{"Treliças" = "gh_treliças/trelicas.md"},
+
+{"Brise paramétrico" = "gh_brise/gh_brise.md"},
+
+{"Atratores" = "gh_attractors/attractors.md"},
+{"Morph" = "gh_morph/gh_morph.md"},
 {"Instalando pacotes" = "install_packages/install_packages.md"},
 {"Exemplos" = "gh_exemplos/gh-exemplos.md"},
 {"Interoperabilidade" = "interop/interop.md"},

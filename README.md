@@ -83,17 +83,17 @@ _______
 
 ### Atividade 02 - Brise Paramétrico - Parte II
 
-![brise_parte_02](./gh_brise/exemplo_brise_parte_02.png)
+![brise_parte_02](docs/gh_brise/exemplo_brise_parte_02.png)
 
-- [Arquivo final](./gh_brise/brise_parametrico_2021b.gh)
+- [Arquivo final](docs/gh_brise/brise_parametrico_2021b.gh)
 
 ### Treliças - 03
 
-[Treliças](gh_treliças/trelicas.md)
+[Treliças](docs/gh_treliças/trelicas.md)
 
 ### Atividade 04 - Morph
 
-- [Morph](./gh_morph/gh_morph.md)
+- [Morph](docs/gh_morph/gh_morph.md)
 - Nurbs
 - Coordenadas UV
 - Domínios
@@ -107,13 +107,13 @@ _______
 - domínio
 - sequência
 
-  [Atividade 04 - Múltiplos pavimentos](./gh_multi_pav/gh_multi_pav.md)
+  [Atividade 04 - Múltiplos pavimentos](docs/gh_multi_pav/gh_multi_pav.md)
 
-  [Pavimentos com posição aleatória](gh_multi_pav/random_tower.gh)
+  [Pavimentos com posição aleatória](docs/gh_multi_pav/random_tower.gh)
 
 ### Atividade 06 - Attractors
 
-[Atratores](./gh_attractors/attractors.md)
+[Atratores](docs/gh_attractors/attractors.md)
 
 ### Instalando pacotes
 

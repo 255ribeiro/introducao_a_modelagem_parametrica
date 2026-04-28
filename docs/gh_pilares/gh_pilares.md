@@ -1,7 +1,4 @@
-# Grasshopper Introdução - Squência de pilares
-
-_______________
-
+# Grasshopper - Sequência de pilares
 
 ## Iniciando uma definição
 
