@@ -1,18 +1,21 @@
+---
+icon: fontawesome/regular/note-sticky
+---
+
 # Panels : O que é são, onde vivem e o que comem?
 
-_____________
+---
 
 [Arquivo exemplo](./panels_ex_01.gh)
 
-__________
+---
 
 ## O que é são?
 
-
 Os **panels** (painéis) são componentes muito versáteis do **Grasshopper**, muito utilizados, tanto para entrada quando para saída de dados nos algoritmos.
 
+---
 
-__________
 ## Onde vivem?
 
 ![paineis](./panel_01.jpg)
@@ -25,11 +28,9 @@ Também podem ser carregados por atalho, clicando duas vezes na tela e digitando
 //
 ```
 
+---
 
-
-__________
 ## O que comem?
-
 
 Eles se alimentam de dados de diversos tipos: em sua maioria, textos. Podem ser alimentados com a saída de um componente (saída  de dados) ou ter dados inseridos manualmente (entrada de dados).
 
@@ -43,7 +44,7 @@ A saída **Points** mostra na tela os pontos que dividem a curva, no painel, vem
 
 ### Como entrada de dados
 
-Os dados podem ser inseridos manualmente de diferentes maneiras: 
+Os dados podem ser inseridos manualmente de diferentes maneiras:
 
 1. clicando duas vezes em um slider e digitando os caracteres desejados.
    ![painel](./panel03a_1.png)
@@ -53,7 +54,6 @@ Os dados podem ser inseridos manualmente de diferentes maneiras:
     ![paineis](./panel03b_2.png)
 3. digitando o atalho ``` // ```, digitando o texto desejado e apertando a tecla **enter**.
     ![paineis](./panel03c.jpg)
-
 
 #### Multiline data
 
@@ -73,14 +73,5 @@ No primeiro exemplo, o componente considerou o texto em **Fragment A** como uma 
 
 No exemplo da direita, com o **Multiline data** desativado, o componente considerou que cada linha de texto do **panel** era uma informação **data** separada (um dado difernete por linha). colocando o texto de **Fragment B** após o final de cada linha.
 
-____________________
-____________________
-
-
-
-
-
-
-
-
-
+---
+---

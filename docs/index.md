@@ -1,3 +1,8 @@
+
+
+
+
+
 # INTRODUÇÃO À MODELAGEM PARAMÉTRICA
 
 _______
