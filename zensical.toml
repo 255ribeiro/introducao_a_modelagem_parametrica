@@ -27,11 +27,9 @@ nav = [
 {"Sobre o Grashopper" = "grass_about/grass_about.md"},
 {"Interface" = "gh_interface/gh_inter.md"},
 
-
 {"Sliders" = "Slider/Slider_config.md"},
 {"Panels" = "gh_panels/panel_config.md"},
 {"Manipulação de listas" = "gh_list_intro/gh_list_basics.md"},
-
 
 {"Pontos, Vetores e Planos" = "gh_vect_plane/vect_plane_basics.md"},
 
@@ -40,6 +38,8 @@ nav = [
 {"Treliças" = "gh_treliças/trelicas.md"},
 
 {"Brise paramétrico" = "gh_brise/gh_brise.md"},
+
+{"Múltiplos pavimentos" = "gh_multi_pav/gh_multi_pav.md"},
 
 {"Clusters" = "gh_clusters/clusters.md"},
 
@@ -54,6 +54,7 @@ nav = [
 {"Interoperabilidade" = "interop/interop.md"},
 
 {"Exemplos" = "gh_exemplos/gh-exemplos.md"},
+
 {"Links úteis" = "links_refs/links_refs.md"}
 ]
 

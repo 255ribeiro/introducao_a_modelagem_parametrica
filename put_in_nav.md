@@ -1,0 +1,6 @@
+EdialAvaliacoes/edital01.md
+referencias/ementa.md
+interop/speckle/speckle_install.md
+interop/archicad_connect/archicad_connect.md
+install_packages/package_manager/pack_man.md
+install_packages/package_list/package_list.md

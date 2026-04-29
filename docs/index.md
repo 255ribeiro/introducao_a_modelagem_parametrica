@@ -1,7 +1,6 @@
-
-
-
-
+---
+icon: lucide/chart-network
+---
 
 # INTRODUÇÃO À MODELAGEM PARAMÉTRICA
 
