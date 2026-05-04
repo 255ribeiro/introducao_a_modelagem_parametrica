@@ -1,3 +1,7 @@
+---
+icon: lucide/info
+---
+
 # Grasshopper
 
 ## O que é o Grasshopper?

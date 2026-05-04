@@ -1,3 +1,7 @@
+---
+icon: lucide/spline
+---
+
 # Modelagem com o Morph
 
 ### Ou: 

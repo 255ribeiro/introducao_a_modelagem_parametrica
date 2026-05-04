@@ -1,3 +1,7 @@
+---
+icon: lucide/link
+---
+
 # Links
 
 ## Site do Rhinoceros 3D

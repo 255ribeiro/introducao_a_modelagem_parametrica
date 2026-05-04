@@ -1,3 +1,6 @@
+---
+icon: lucide/group
+---
 # Clusters
 
 [Arquivo base](./CLUSTER_EXAMPLE.gh)

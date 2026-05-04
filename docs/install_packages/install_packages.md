@@ -1,3 +1,7 @@
+---
+icon: lucide/package-open
+---
+
 # Instalando pacotes
 
 Existem algumas maneiras de procurar e instalar plug-ins e addons para Rhino/Grasshopper.

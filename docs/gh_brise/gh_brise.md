@@ -1,3 +1,8 @@
+---
+icon: fontawesome/solid/table-cells
+---
+
+
 # Brise Paramétrico
 
 ## Conceitos

@@ -1,3 +1,8 @@
+---
+icon: lucide/layers-plus
+---
+
+
 # Múltipos pavimentos
 
 ____________

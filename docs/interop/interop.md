@@ -1,3 +1,6 @@
+---
+icon: lucide/arrow-right-left
+---
 # Interoperabilidade
 
 ## Speckle
