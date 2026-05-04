@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/table-cells
+icon: lucide/rows-4
 ---
 
 
