@@ -94,7 +94,7 @@ _______
 
 ### Treliças - 03
 
-[Treliças](gh_treliças/trelicas.md)
+[Treliças](gh_trelicas/trelicas.md)
 
 ### Atividade 04 - Morph
 
