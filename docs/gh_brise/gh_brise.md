@@ -1,5 +1,9 @@
 # Brise Paramétrico
 
+## Conceitos
+
+[Conceitos](./conceitos.gh)
+
 ## Parte I
 
 ![brise_parte_01](./exemplo_brise_parte_01.png)
