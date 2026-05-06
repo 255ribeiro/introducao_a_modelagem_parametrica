@@ -17,7 +17,7 @@ icon: lucide/rows-4
   
 - Domínios
   
-- [Arquivo final](./brise_parametrico_2021.gh)
+- [Arquivo final](./brise_param_2026_a.gh)
 
 ### Parte 2
 
