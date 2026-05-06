@@ -28,4 +28,4 @@ icon: lucide/rows-4
 
 ![brise_parte_02](./exemplo_brise_parte_02.png)
 
-- [Arquivo final](./brise_parametrico_2021b.gh)
+- [Arquivo final](./brise_param_2026_b.gh)
