@@ -55,7 +55,15 @@ nav = [
 
 {"Exemplos" = "gh_exemplos/gh-exemplos.md"},
 
-{"Links úteis" = "links_refs/links_refs.md"}
+{"Links úteis" = "links_refs/links_refs.md"},
+
+{"Editais" = [{"Edital AV1" = "editais/av1_edital_mpsd.md"},
+{"Edital AV2" = "editais/av2_edital_mpsd.md"}
+
+
+]}
+
+
 ]
 
 [project.theme]
