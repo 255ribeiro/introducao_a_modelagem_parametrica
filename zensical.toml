@@ -53,7 +53,7 @@ nav = [
 
 {"Instalando pacotes" = "install_packages/install_packages.md"},
 
-{"Interoperabilidade" = "interop/interop.md"},
+{"Interoperabilidade" = "interop/"},
 
 {"Exemplos" = "gh_exemplos/gh-exemplos.md"},
 

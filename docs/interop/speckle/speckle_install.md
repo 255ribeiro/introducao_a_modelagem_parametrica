@@ -10,30 +10,19 @@ E preciso instalar o Speckle Manager e os conectores para cada um dos programas 
 
 e
 
-[https://speckle.xyz/](https://speckle.xyz/)
+[https://app.speckle.systems/](https://app.speckle.systems/)
 
 ## Instalado o Speckle Manager
 
 Acesse o site [https://speckle.xyz/](https://speckle.xyz/) e faça uma conta no servidor Speckle.
 
-No site abaixo:
-[https://speckle.systems/download/](https://speckle.systems/download/)
+Crie um workspace. No plano gratuito apenas um workspace pode ser criado. o Workspace é o ponto de entrada onde projetos podem ser criados e compartilhados. É possível criar equipes de trabalhos e definir aceso para trabalhos colaborativos.
 
-Baixe e instale o Speckle Manager.
+Crie um projeto.
 
-Após a instalação, é preciso abrir o programa (área de notificações do Windows) e instalar os conectores. O gif abaixo mostra a instalação do conector do Archicad através do Speckle Manager.
 
-![Archicad install](./speckle_manager_install_connector.gif)
 
-### Para este curso, precisamos usar os seguintes conectores:
-
-- Rhino
-- Grasshopper
-- Revit
-- Dynamo
-- Archicad
-
+Confira a documentação do speckle no link [https://docs.speckle.systems/quickstart/welcome](https://docs.speckle.systems/quickstart/welcome).
 
 _________________
 _________________
-
