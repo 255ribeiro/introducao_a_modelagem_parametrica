@@ -13,7 +13,7 @@ icon: lucide/arrow-right-left
 
 [Notas de interoperabilidade Rhino -> Archicad](direta/rhino-para-archicad.md)
 
-## Exportação por plugins
+## Interoperabilidade por plugins
 
 ### Speckle
 
@@ -41,5 +41,6 @@ icon: lucide/arrow-right-left
 
 [Instruções de instalação](./archicad_connect/archicad_connect.md)
 
----
----
+-----
+
+-----
