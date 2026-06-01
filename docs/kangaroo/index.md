@@ -1,3 +1,7 @@
+---
+icon: lucide/Orbit
+---
+
 # Kangaroo 2 - Simulações de física
 
 ## Playlist sobre o Kangaroo em inglês
