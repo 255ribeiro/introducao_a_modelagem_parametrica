@@ -217,7 +217,7 @@ File > Export Selected > SAT   →    Novo > Família > Massa.rft
 ## 13. Boas práticas
 
 - Exporte por **categoria** em SATs separados (paredes, coberturas) — facilita a seleção de faces no Revit.
-- Mantenha o modelo Rhino em **milímetros** e importe no Revit também em milímetros.
+- Mantenha o modelo Rhino na mesma unidade do arquivo do Revit (m -> m ou mm -> mm por exemplo).
 - Nomeie os layers no Rhino com nomes descritivos — chegam no Revit e ajudam a triagem.
 - Use **Vincular CAD** (não Importar) para SATs de geometria que ainda vai evoluir — permite recarregar.
 - Para Parede por Face funcionar em superfícies curvas, prefira geometria com **curvatura simples** (cilíndrica) no Rhino — dupla curvatura exige Sistema de Parede Cortina.
