@@ -12,6 +12,9 @@ E preciso instalar o Speckle Manager e os conectores para cada um dos programas 
 
 Acesse o site [https://speckle.systems/](https://speckle.systems/) e faça uma conta no servidor Speckle.
 
+
+A documentação poderá ser consultada no link [https://docs.speckle.systems/quickstart/welcome](https://docs.speckle.systems/quickstart/welcome)
+
 Crie um workspace. No plano gratuito apenas um workspace pode ser criado. o Workspace é o ponto de entrada onde projetos podem ser criados e compartilhados. É possível criar equipes de trabalhos e definir aceso para trabalhos colaborativos.
 
 Crie um projeto.
