@@ -15,6 +15,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/cpython-3.14.4-py314hd8ed1ab_100.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/deepmerge-2.0-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/importlib-metadata-8.8.0-pyhcf101f3_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jinja2-3.1.6-pyhcf101f3_1.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/libexpat-2.7.5-hac47afa_0.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/libffi-3.5.2-h3d046cb_0.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/liblzma-5.8.3-hfd05255_0.conda
@@ -22,9 +23,10 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/win-64/libsqlite-3.53.0-hf5d6505_0.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/libzlib-1.3.2-hfd05255_2.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/markdown-3.10.2-pyhcf101f3_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/win-64/markupsafe-3.0.3-py314h2359020_1.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/openssl-3.6.2-hf411b9b_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pygments-2.20.0-pyhd8ed1ab_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/pymdown-extensions-10.21.2-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/pymdown-extensions-10.21.3-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/python-3.14.4-h4b44e0e_100_cp314.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-gil-3.14.4-h4df99d1_100.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python_abi-3.14-8_cp314.conda
@@ -39,7 +41,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/win-64/vc14_runtime-14.44.35208-h818238b_34.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/vcomp14-14.44.35208-h818238b_34.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/yaml-0.2.5-h6a83c73_3.conda
-      - conda: https://conda.anaconda.org/conda-forge/win-64/zensical-0.0.36-py310hdba2031_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/win-64/zensical-0.0.44-py310hdba2031_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/zipp-3.23.1-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/zstd-1.5.7-h534d264_6.conda
 packages:
@@ -123,6 +125,17 @@ packages:
   license_family: APACHE
   size: 34387
   timestamp: 1773931568510
+- conda: https://conda.anaconda.org/conda-forge/noarch/jinja2-3.1.6-pyhcf101f3_1.conda
+  sha256: fc9ca7348a4f25fed2079f2153ecdcf5f9cf2a0bc36c4172420ca09e1849df7b
+  md5: 04558c96691bed63104678757beb4f8d
+  depends:
+  - markupsafe >=2.0
+  - python >=3.10
+  - python
+  license: BSD-3-Clause
+  license_family: BSD
+  size: 120685
+  timestamp: 1764517220861
 - conda: https://conda.anaconda.org/conda-forge/win-64/libexpat-2.7.5-hac47afa_0.conda
   sha256: 6850c3a4d5dc215b86f58518cfb8752998533d6569b08da8df1da72e7c68e571
   md5: bfb43f52f13b7c56e7677aa7a8efdf0c
@@ -204,6 +217,21 @@ packages:
   license_family: BSD
   size: 85893
   timestamp: 1770694658918
+- conda: https://conda.anaconda.org/conda-forge/win-64/markupsafe-3.0.3-py314h2359020_1.conda
+  sha256: 02805a0f3cd168dbf13afc5e4aed75cc00fe538ce143527a6471485b36f5887c
+  md5: 8de7b40f8b30a8fcaa423c2537fe4199
+  depends:
+  - python >=3.14,<3.15.0a0
+  - python_abi 3.14.* *_cp314
+  - ucrt >=10.0.20348.0
+  - vc >=14.3,<15
+  - vc14_runtime >=14.44.35208
+  constrains:
+  - jinja2 >=3.0.0
+  license: BSD-3-Clause
+  license_family: BSD
+  size: 30022
+  timestamp: 1772445159549
 - conda: https://conda.anaconda.org/conda-forge/win-64/openssl-3.6.2-hf411b9b_0.conda
   sha256: feb5815125c60f2be4a411e532db1ed1cd2d7261a6a43c54cb6ae90724e2e154
   md5: 05c7d624cff49dbd8db1ad5ba537a8a3
@@ -225,17 +253,17 @@ packages:
   license_family: BSD
   size: 893031
   timestamp: 1774796815820
-- conda: https://conda.anaconda.org/conda-forge/noarch/pymdown-extensions-10.21.2-pyhd8ed1ab_0.conda
-  sha256: f0513cb5a1ad722025771e7c5a45fa163dfab965d608a82d058cde47abb02d48
-  md5: 8e693ba2664eaa3306d7084642e2e4a2
+- conda: https://conda.anaconda.org/conda-forge/noarch/pymdown-extensions-10.21.3-pyhd8ed1ab_0.conda
+  sha256: 644f7661c3589684b04c1cdda315af0db5839c4f6c609f460d12375fb694debe
+  md5: 2a324ab0d62115c96875f33b55852784
   depends:
   - markdown >=3.6
   - python >=3.10
   - pyyaml
   license: MIT
   license_family: MIT
-  size: 173156
-  timestamp: 1774803071462
+  size: 172181
+  timestamp: 1778686891401
 - conda: https://conda.anaconda.org/conda-forge/win-64/python-3.14.4-h4b44e0e_100_cp314.conda
   build_number: 100
   sha256: e258d626b0ba778abb319f128de4c1211306fe86fe0803166817b1ce2514c920
@@ -396,19 +424,20 @@ packages:
   license_family: MIT
   size: 63944
   timestamp: 1753484092156
-- conda: https://conda.anaconda.org/conda-forge/win-64/zensical-0.0.36-py310hdba2031_0.conda
+- conda: https://conda.anaconda.org/conda-forge/win-64/zensical-0.0.44-py310hdba2031_0.conda
   noarch: python
-  sha256: 82253c0f28720f42b71b5e624f64ee2f1efb33581735963df9578a3fcb10bc4d
-  md5: 192cf276d6fe29dd255665291923ebd5
+  sha256: 357a890a9793eb153ce1575d3267f8acb219d670ccb21d50d4385eaaae1c9592
+  md5: 551c48e9fc20504d0032256906ea3d02
   depends:
   - python
   - click >=8.1.8
   - deepmerge >=2.0
   - markdown >=3.7
   - pygments >=2.20
-  - pymdown-extensions >=10.21.2
+  - pymdown-extensions >=10.21.3
   - pyyaml >=6.0.2
   - tomli >=2.4.0
+  - jinja2 >=3.1
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   - ucrt >=10.0.20348.0
@@ -416,8 +445,8 @@ packages:
   - cpython >=3.10
   license: MIT
   license_family: MIT
-  size: 6700804
-  timestamp: 1776986451992
+  size: 6839280
+  timestamp: 1780604585262
 - conda: https://conda.anaconda.org/conda-forge/noarch/zipp-3.23.1-pyhcf101f3_0.conda
   sha256: 523616c0530d305d2216c2b4a8dfd3872628b60083255b89c5e0d8c42e738cca
   md5: e1c36c6121a7c9c76f2f148f1e83b983
