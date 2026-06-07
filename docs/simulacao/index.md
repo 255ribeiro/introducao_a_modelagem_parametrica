@@ -1,5 +1,5 @@
 ---
-icon: lucide/sun
+icon: lucide/mirror-round
 ---
 
 # Simulações
