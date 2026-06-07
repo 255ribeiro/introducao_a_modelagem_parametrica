@@ -1,6 +1,7 @@
 ---
 icon: lucide/arrow-right-left
 ---
+
 # Interoperabilidade
 
 ## Importação Direta

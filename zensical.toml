@@ -53,7 +53,7 @@ nav = [
 
 {"Instalando pacotes" = "install_packages/install_packages.md"},
 
-{"Simulações" = "simulacao/"}
+{"Simulações" = "simulacao/"},
 
 {"Interoperabilidade" = "interop/"},
 
