@@ -47,15 +47,15 @@ nav = [
 
 {"Morph" = "gh_morph/gh_morph.md"},
 
-{"Kangaroo 2 " = "kangaroo/"},
+{"Kangaroo 2 " = "kangaroo/index.md"},
 
 {"Special Folders" = "gh_interface/gh_special_folders.md"},
 
 {"Instalando pacotes" = "install_packages/install_packages.md"},
 
-{"Simulações" = "simulacao/"},
+{"Simulações" = "simulacao/index.md"},
 
-{"Interoperabilidade" = "interop/"},
+{"Interoperabilidade" = "interop/index.md"},
 
 {"Exemplos" = "gh_exemplos/gh-exemplos.md"},
 
