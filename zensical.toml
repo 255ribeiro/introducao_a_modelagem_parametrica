@@ -59,12 +59,13 @@ nav = [
 
 {"Links úteis" = "links_refs/links_refs.md"},
 
-{"Editais" = [{"Edital AV1" = "editais/av1_edital_mpsd.md"},
-{"Edital AV2" = "editais/av2_edital_mpsd.md"}
+{"Editais" = [
 
+{"Edital AV1" = "editais/av1_edital_mpsd.md"},
+{"Edital AV2" = "editais/av2_edital_mpsd.md"},
+{"Edital AV3" = "editais/av3_edital_mpsd.md"},
 
 ]}
-
 
 ]
 
