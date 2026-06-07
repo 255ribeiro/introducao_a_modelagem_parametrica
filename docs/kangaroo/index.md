@@ -1,5 +1,5 @@
 ---
-icon: lucide/Orbit
+icon: lucide/orbit
 ---
 
 # Kangaroo 2 - Simulações de física
