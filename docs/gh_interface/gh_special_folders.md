@@ -23,3 +23,7 @@ Segue abaixo uma lista dessas pastas com os respectivos atalhos que podem ser co
 - auto save folder": ```%AppData%\Grasshopper\AutoSave```
 
 ---
+
+## Instalando Plugins
+
+[Sunglasses](https://github.com/DanielAbalde/Sunglasses)
