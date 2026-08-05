@@ -35,7 +35,7 @@ CURSO DE ARQUITETURA E URBANISMO
 
 <h4 style="background:lightblue">Orientações gerais</h4>
 
-Os trabalhos podem ser feitos de forma **individual ou em grupos de até cinco (5) alunos**. O nome de todos os integrantes deve constar no arquivo de entrega.
+Os trabalhos podem ser feitos de forma **individual ou em grupos de até cinco (3) alunos**. O nome de todos os integrantes deve constar no arquivo de entrega.
 
 As três atividades são **progressivas e complementares** — a Atividade 1 gera os dados climáticos que fundamentam as análises seguintes, a Atividade 2 modela o lote e aplica análises de radiação e sombreamento, e a Atividade 3 insere um edifício nesse mesmo lote. Todas as análises devem ser realizadas dentro do ambiente **Rhino + Grasshopper** com o plugin **Ladybug Tools** instalado.
 
@@ -58,8 +58,7 @@ O objetivo é entender como o arquivo EPW organiza dados climáticos horários e
 **Entregáveis desta atividade:**
 
 - Canvas Grasshopper com todos os componentes conectados (arquivo `.gh`)
-- Capturas de tela de todos os gráficos gerados para as **duas cidades**
-- Um parágrafo comparativo descrevendo as diferenças climáticas observadas e suas implicações para o projeto arquitetônico
+- Capturas de tela de todos os gráficos gerados para as **duas cidades** e um parágrafo comparativo descrevendo as diferenças climáticas observadas e suas implicações para o projeto arquitetônico — **inseridos no relatório em PDF** (ver seção "Relatório em PDF")
 
 ---
 
@@ -81,8 +80,7 @@ O arquivo EPW usado deve ser o da cidade **brasileira** escolhida na Atividade 1
 
 - Arquivo Rhino com o modelo do lote e entorno (`.3dm`)
 - Canvas Grasshopper com as análises conectadas (`.gh`)
-- Captura do heatmap de radiação anual sobre o terreno
-- Capturas das sombras projetadas no solstício de verão e no solstício de inverno (2 imagens)
+- Captura do heatmap de radiação anual sobre o terreno e capturas das sombras projetadas no solstício de verão e no solstício de inverno (2 imagens) — **inseridas no relatório em PDF**
 
 ---
 
@@ -97,23 +95,32 @@ O parâmetro de rotação deve ser controlado por um **slider** no Grasshopper �
 **Entregáveis desta atividade:**
 
 - Canvas Grasshopper atualizado com o edifício e o slider de rotação (`.gh`)
-- Capturas do heatmap de radiação nas fachadas para cada uma das três rotações (3 imagens)
-- Análise comparativa: qual orientação resulta em menor radiação nas fachadas mais críticas (poente) e qual maximiza a captação solar na fachada norte — e por quê
+- Capturas do heatmap de radiação nas fachadas para cada uma das três rotações (3 imagens) e a análise comparativa — qual orientação resulta em menor radiação nas fachadas mais críticas (poente) e qual maximiza a captação solar na fachada norte, e por quê — **inseridas no relatório em PDF**
+
+---
+
+<h4 style="background:lightblue">Relatório em PDF</h4>
+
+Todas as capturas de tela e todos os textos de análise/comparação das três atividades devem ser reunidos em **um único relatório em PDF**, com a seguinte estrutura mínima:
+
+- **Capa**: identificação do grupo e de todos os integrantes
+- **Seção 1 — Estudo Climático Comparativo**: gráficos (heatmap, rosa dos ventos, percurso solar) das duas cidades, lado a lado, seguidos do parágrafo comparativo
+- **Seção 2 — Radiação e Sombreamento no Lote**: heatmap de radiação anual sobre o terreno e as capturas de sombreamento nos dois solstícios
+- **Seção 3 — Edifício no Lote**: heatmaps de radiação nas fachadas para as três rotações e a análise comparativa das orientações
+
+As imagens devem estar legíveis e identificadas (legenda indicando cidade, data ou ângulo de rotação, conforme o caso). Os arquivos `.gh` e `.3dm` continuam sendo entregues separadamente — o PDF concentra apenas as imagens e os textos interpretativos.
 
 ---
 
 <h4 style="background:lightblue">Itens da entrega</h4>
 
-| #   | Item                                                                 | Formato           |
-| --- | -------------------------------------------------------------------- | ----------------- |
-| 1   | Canvas Grasshopper com gráficos climáticos (Atividade 1)            | `.gh`             |
-| 2   | Capturas dos gráficos das duas cidades + parágrafo comparativo      | `.png` / `.jpg` + `.txt` ou `.md` |
-| 3   | Modelo Rhino do lote e entorno (Atividade 2)                        | `.3dm`            |
-| 4   | Canvas Grasshopper com análises do lote (Atividade 2)               | `.gh`             |
-| 5   | Capturas da radiação no terreno e das sombras (3 imagens)           | `.png` / `.jpg`   |
-| 6   | Canvas Grasshopper com edifício e slider de rotação (Atividade 3)   | `.gh`             |
-| 7   | Capturas da radiação nas fachadas para as três rotações (3 imagens) | `.png` / `.jpg`   |
-| 8   | Análise comparativa das rotações                                     | `.txt` ou `.md`   |
+| # | Item                                                                               | Formato |
+| - | ---------------------------------------------------------------------------------- | ------- |
+| 1 | Canvas Grasshopper com gráficos climáticos (Atividade 1)                           | `.gh`   |
+| 2 | Modelo Rhino do lote e entorno (Atividade 2)                                       | `.3dm`  |
+| 3 | Canvas Grasshopper com análises do lote (Atividade 2)                              | `.gh`   |
+| 4 | Canvas Grasshopper com edifício e slider de rotação (Atividade 3)                  | `.gh`   |
+| 5 | Relatório em PDF com todas as capturas e análises comparativas das três atividades | `.pdf`  |
 
 ---
 
@@ -139,18 +146,19 @@ grupo_XX/
 │   ├── cidade_A/
 │   │   └── (capturas dos gráficos)
 │   ├── cidade_B/
-│   │   └── (capturas dos gráficos)
-│   └── comparativo.txt
+│       └── (capturas dos gráficos)
+│   
 ├── ativ2_lote/
 │   ├── lote_entorno.3dm
 │   ├── analise_lote.gh
 │   └── (capturas: radiação + sombras)
 └── ativ3_rotacao/
-    ├── edificio_lote.gh
-    ├── rotacao_0deg.png
-    ├── rotacao_45deg.png
-    ├── rotacao_90deg.png
-    └── analise_comparativa.txt
+|    ├── edificio_lote.gh
+|   ├── rotacao_0deg.png
+|   ├── rotacao_45deg.png
+|   ├── rotacao_90deg.png
+|__ Relatório
+    |__ Relatório.pdf
 ```
 
 ---
