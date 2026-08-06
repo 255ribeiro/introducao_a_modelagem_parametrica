@@ -163,8 +163,8 @@ grupo_XX/
 
 ---
 
-#### **Data de entrega: 05 de julho de 2026**
+#### **Data de entrega: Consulte o AVA da disciplina**
 
-#### A entrega fora do prazo terá descontos na nota.
+<!-- #### A entrega fora do prazo terá descontos na nota. -->
 
 ---
