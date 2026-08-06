@@ -128,7 +128,7 @@ As imagens devem estar legíveis e identificadas (legenda indicando cidade, data
 
 | Critério                                                                                        | Peso |
 | ----------------------------------------------------------------------------------------------- | ---- |
-| Atividade 1 — Qualidade e diversidade dos gráficos climáticos e clareza da análise comparativa | 25%  |
+| Atividade 1 — Qualidade e diversidade dos gráficos climáticos e clareza da análise comparativa  | 25%  |
 | Atividade 2 — Modelagem do lote e correto uso dos componentes de radiação e sombreamento        | 30%  |
 | Atividade 3 — Parametrização da rotação e qualidade da análise comparativa das orientações      | 35%  |
 | Organização geral dos arquivos e clareza dos textos interpretativos                             | 10%  |
