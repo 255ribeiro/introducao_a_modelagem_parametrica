@@ -18,7 +18,7 @@ CURSO DE ARQUITETURA E URBANISMO
 
 <div>
     <span style="float: left;">Docente: Prof. Dr. Fernando Ferraz Ribeiro</span>
-    <span style="float: right;">Semestre: 2026.1</span>
+    <span style="float: right;">Semestre: 2026.2</span>
 </div>
 
 <br>
