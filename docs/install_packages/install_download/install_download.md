@@ -7,7 +7,8 @@
 
 2. Caso o Rhino e o Grasshopper estejam abertos, feche os programas.
 
-3. Baixe o pluguin a ser instalado. exemplo [Sunglasses](https://github.com/DanielAbalde/Sunglasses)
+3. Baixe o plugin a ser instalado. Exemplos de plugins
+   1.  [Sunglasses](https://github.com/DanielAbalde/Sunglasses): Visualização dos nomes dos componentes mesmo com o **Draw Icons** ativado.
 
 4. Clique com o botão direito no(s) arquivo(s) baixado(s), escolha a opção propriedades e  clique em desbloquear.
 
