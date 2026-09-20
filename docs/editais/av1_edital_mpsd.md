@@ -81,7 +81,7 @@ O arquivo exportado deve ser entregue junto com o código.
 
 A partir do visualizador interativo, ou de imagens geradas pelos arquivos exportados abertos em softwares de modelagem CAD ou BIM, capture **três imagens** do modelo em ângulos distintos que melhor representem a volumetria proposta. Sugestões de ângulos:
 
-- Vista em perspectiva isométrica (ângulo de conjunto) — **obrigatória**
+- Vista em perspectiva cônica e/ou isométrica (ângulo de conjunto) — **obrigatória**
 - Vistas internas de pátios ou aberturas
 - Vistas com detalhe do coroamento ou embasamento
 
