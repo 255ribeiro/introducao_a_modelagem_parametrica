@@ -49,10 +49,10 @@ Os discentes devem se dividir em 4 grupos com até 2 integrantes cada. Cada um d
   3. Painelização (paneling) de formas orgânicas
   4. Origami paramétrico
   
-  <!-- 1. Elemento construtivo ou estudo de arquitetura utilizando morph -->
-    <!-- 1. Elemento construtivo ou estudo de arquitetura utilizando fields -->
-  <!-- 1. Elemento construtivo ou estudo de arquitetura baseado em diagramas de Voronoi 3D -->
-  <!-- 
+<!-- 1. Elemento construtivo ou estudo de arquitetura utilizando morph -->
+<!-- 1. Elemento construtivo ou estudo de arquitetura utilizando fields -->
+<!-- 1. Elemento construtivo ou estudo de arquitetura baseado em diagramas de Voronoi 3D -->
+<!-- 
   1. Torre deformada com o Kangaroo2.
   2. Elemento construtivo com estrutura *waffle* -->
 
