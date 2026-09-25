@@ -42,16 +42,16 @@ Escopo da Avaliação
 </h4>
 
 Os discentes devem se dividir em 9 grupos com até 5 integrantes cada. Cada um dos grupos deve desenvolver um algoritmo seguindo um dos temas abaixo (definidos por sorteio):
-
+<!-- 
   1. Torre deformada com o Kangaroo2.
-  1. Elemento construtivo com estrutura *waffle*
+  1. Elemento construtivo com estrutura *waffle* -->
   1. Elemento construtivo ou estudo de arquitetura utilizando atratores(Attractors)
-  1. Elemento construtivo ou estudo de arquitetura utilizando fields
-  1. Elemento construtivo ou estudo de arquitetura baseado em diagramas de Voronoi 3D
-  1. Elemento construtivo ou estudo de arquitetura baseado em *metaballs*
-  1. Elemento construtivo ou estudo de arquitetura utilizando morph
-  1. Painelização (paneling) de formas orgânicas
-  1. Origami paramétrico
+  <!-- 1. Elemento construtivo ou estudo de arquitetura utilizando fields -->
+  <!-- 1. Elemento construtivo ou estudo de arquitetura baseado em diagramas de Voronoi 3D -->
+  2. Elemento construtivo ou estudo de arquitetura baseado em *metaballs*
+  <!-- 1. Elemento construtivo ou estudo de arquitetura utilizando morph -->
+  3. Painelização (paneling) de formas orgânicas
+  4. Origami paramétrico
 
 <h4 style="background:lightblue">
 Orientações Complementares
