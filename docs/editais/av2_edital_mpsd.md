@@ -41,7 +41,7 @@ Objetivo da avaliação
 Escopo da Avaliação
 </h4>
 
-Os discentes devem se dividir em 4 grupos com até 2 integrantes cada. Cada um dos grupos deve desenvolver um algoritmo seguindo um dos temas abaixo (definidos por sorteio):
+Os discentes devem se dividir em 4 equipes com até 2 integrantes cada. Cada um dos grupos deve desenvolver um algoritmo seguindo um dos temas abaixo (definidos por sorteio):
 
   1. Elemento construtivo ou estudo de arquitetura utilizando atratores(Attractors)
 
