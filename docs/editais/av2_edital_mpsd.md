@@ -91,20 +91,17 @@ As equipes devem apresentar:
 A data de entrega
 </h4>
 
-Apresentações nos dias 25/05 e 27/05
+Apresentações nos dias 29/10
 
 -----
 
-Sorteio 2026.1
+Sorteio 2026.2
 
 | Grupo | Tema  |
 | :---: | :---: |
 |   1   |   3   |
-|   2   |   7   |
-|   3   |   8   |
-|   4   |   2   |
-|   5   |   4   |
-|   6   |   6   |
-|   7   |   1   |
-|   8   |   5   |
-|   9   |   9   |
+|   2   |   4   |
+|   3   |   2   |
+|   4   |   1   |
+
+-----
