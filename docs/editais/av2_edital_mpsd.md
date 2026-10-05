@@ -91,7 +91,7 @@ As equipes devem apresentar:
 A data de entrega
 </h4>
 
-Apresentações nos dias 29/10
+Apresentações nos dias 30/10
 
 -----
 
