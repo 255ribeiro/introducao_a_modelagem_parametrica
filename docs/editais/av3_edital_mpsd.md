@@ -35,7 +35,7 @@ CURSO DE ARQUITETURA E URBANISMO
 
 <h4 style="background:lightblue">Orientações gerais</h4>
 
-Os trabalhos podem ser feitos de forma **individual ou em grupos de até cinco (2) alunos**. O nome de todos os integrantes deve constar no arquivo de entrega.
+Os trabalhos podem ser feitos de forma **individual ou em grupos de até dois (2) alunos**. O nome de todos os integrantes deve constar no arquivo de entrega.
 
 As três atividades são **progressivas e complementares** — a Atividade 1 gera os dados climáticos que fundamentam as análises seguintes, a Atividade 2 modela o lote e aplica análises de radiação e sombreamento, e a Atividade 3 insere um edifício nesse mesmo lote. Todas as análises devem ser realizadas dentro do ambiente **Rhino + Grasshopper** com o plugin **Ladybug Tools** instalado.
 
