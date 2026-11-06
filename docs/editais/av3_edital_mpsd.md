@@ -35,7 +35,7 @@ CURSO DE ARQUITETURA E URBANISMO
 
 <h4 style="background:lightblue">Orientações gerais</h4>
 
-Os trabalhos podem ser feitos de forma **individual ou em grupos de até cinco (3) alunos**. O nome de todos os integrantes deve constar no arquivo de entrega.
+Os trabalhos podem ser feitos de forma **individual ou em grupos de até cinco (2) alunos**. O nome de todos os integrantes deve constar no arquivo de entrega.
 
 As três atividades são **progressivas e complementares** — a Atividade 1 gera os dados climáticos que fundamentam as análises seguintes, a Atividade 2 modela o lote e aplica análises de radiação e sombreamento, e a Atividade 3 insere um edifício nesse mesmo lote. Todas as análises devem ser realizadas dentro do ambiente **Rhino + Grasshopper** com o plugin **Ladybug Tools** instalado.
 
@@ -88,9 +88,9 @@ O arquivo EPW usado deve ser o da cidade **brasileira** escolhida na Atividade 1
 
 Insira o volume paramérico de um edificação ou elemento cosntruído no lote modelado na Atividade 2. Pode utilizar algoritmo gerado no edital 02.
 
-Aplique a análise de radiação acumulada anual (`LB Incident Radiation`) nas **fachadas e cobertura** do edifício para **pelo menos três rotações**, por exemplo: 0°, 45° e 90°.
+<!-- Aplique a análise de radiação acumulada anual (`LB Incident Radiation`) nas **fachadas e cobertura** do edifício para **pelo menos três rotações**, por exemplo: 0°, 45° e 90°.
 
-O parâmetro de rotação deve ser controlado por um **slider** no Grasshopper — ao mover o slider, o edifício gira e a análise atualiza automaticamente.
+O parâmetro de rotação deve ser controlado por um **slider** no Grasshopper — ao mover o slider, o edifício gira e a análise atualiza automaticamente. -->
 
 **Entregáveis desta atividade:**
 
