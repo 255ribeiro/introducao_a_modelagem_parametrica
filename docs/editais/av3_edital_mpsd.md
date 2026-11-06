@@ -64,7 +64,7 @@ O objetivo é entender como o arquivo EPW organiza dados climáticos horários e
 
 ### Atividade 2 — Análise de Radiação e Sombreamento no Lote
 
-Modele no Rhino um **lote fictício** com edificações vizinhas ao redor (volumes simples representando o entorno construído). Não é necessário reproduzir um lote real — o objetivo é criar uma situação plausível de implantação urbana.
+Modele no Rhino um lote real (volumes simples representando o entorno construído). Sugestão: utilize o plugin [Rhino Spatial](https://pascalnun.eu/tools/rhinospatial/) para a criação do entrono veja o [tutorial](https://www.youtube.com/watch?v=X0Rn9cWLM1w)
 
 Sobre a superfície do **terreno do lote**, aplique:
 
@@ -84,9 +84,9 @@ O arquivo EPW usado deve ser o da cidade **brasileira** escolhida na Atividade 1
 
 ---
 
-### Atividade 3 — Edifício no Lote: Radiação nas Fachadas por Rotação
+### Atividade 3 — Edifício no Lote: Radiação nas Fachadas
 
-Insira um **edifício simples** (volume paramétrico) no lote modelado na Atividade 2. O edifício deve ser posicionado com um parâmetro de **rotação** que permita testá-lo em diferentes orientações.
+Insira o volume paramérico de um edificação ou elemento cosntruído no lote modelado na Atividade 2. Pode utilizar algoritmo gerado no edital 02.
 
 Aplique a análise de radiação acumulada anual (`LB Incident Radiation`) nas **fachadas e cobertura** do edifício para **pelo menos três rotações**, por exemplo: 0°, 45° e 90°.
 
@@ -94,8 +94,8 @@ O parâmetro de rotação deve ser controlado por um **slider** no Grasshopper �
 
 **Entregáveis desta atividade:**
 
-- Canvas Grasshopper atualizado com o edifício e o slider de rotação (`.gh`)
-- Capturas do heatmap de radiação nas fachadas para cada uma das três rotações (3 imagens) e a análise comparativa — qual orientação resulta em menor radiação nas fachadas mais críticas (poente) e qual maximiza a captação solar na fachada norte, e por quê — **inseridas no relatório em PDF**
+- Canvas Grasshopper atualizado com o edifício/elemento construtivo paramétrico (`.gh`)
+- Capturas do heatmap de radiação nas fachadas para cada uma das flexões do modelo (um conjunto de imagens para cada flexão) e a análise comparativa — qual orientação resulta em menor radiação nas fachadas mais críticas (poente) e qual maximiza a captação solar na fachada norte, e por quê — **inseridas no relatório em PDF**
 
 ---
 
@@ -106,7 +106,7 @@ Todas as capturas de tela e todos os textos de análise/comparação das três a
 - **Capa**: identificação do grupo e de todos os integrantes
 - **Seção 1 — Estudo Climático Comparativo**: gráficos (heatmap, rosa dos ventos, percurso solar) das duas cidades, lado a lado, seguidos do parágrafo comparativo
 - **Seção 2 — Radiação e Sombreamento no Lote**: heatmap de radiação anual sobre o terreno e as capturas de sombreamento nos dois solstícios
-- **Seção 3 — Edifício no Lote**: heatmaps de radiação nas fachadas para as três rotações e a análise comparativa das orientações
+- **Seção 3 — Edifício no Lote**: heatmaps de radiação nas fachadas três flexões do modelo e a análise comparativa das orientações
 
 As imagens devem estar legíveis e identificadas (legenda indicando cidade, data ou ângulo de rotação, conforme o caso). Os arquivos `.gh` e `.3dm` continuam sendo entregues separadamente — o PDF concentra apenas as imagens e os textos interpretativos.
 
