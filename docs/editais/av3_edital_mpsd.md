@@ -110,7 +110,7 @@ Todas as capturas de tela e todos os textos de análise/comparação das três a
 
 - **Capa**: identificação do grupo e de todos os integrantes
 - **Seção 1 — Estudo Climático Comparativo**: gráficos (heatmap, rosa dos ventos, percurso solar) das duas cidades, lado a lado, seguidos do parágrafo comparativo
-- **Seção 2 — Radiação e Sombreamento no Lote**: heatmap de radiação anual sobre o terreno e as capturas de sombreamento nos dois solstícios
+- **Seção 2 — Análise de insolação no lote**: heatmap de radiação anual sobre o terreno e as capturas de sombreamento nos dois solstícios
 - **Seção 3 — Edifício no Lote**: heatmaps de radiação nas fachadas três flexões do modelo e a análise comparativa das orientações
 
 As imagens devem estar legíveis e identificadas (legenda indicando cidade, data ou ângulo de rotação, conforme o caso). Os arquivos `.gh` e `.3dm` continuam sendo entregues separadamente — o PDF concentra apenas as imagens e os textos interpretativos.
