@@ -62,7 +62,7 @@ O objetivo é entender como o arquivo EPW organiza dados climáticos horários e
 
 ---
 
-### Atividade 2 — Análise de Radiação e Sombreamento no Lote
+### Atividade 2 — Análise de insolação no lote
 
 Modele no Rhino um lote real (volumes simples representando o entorno construído). Sugestão: utilize o plugin [Rhino Spatial](https://pascalnun.eu/tools/rhinospatial/) para a criação do entrono. Veja o [tutorial](https://www.youtube.com/watch?v=X0Rn9cWLM1w).
 
@@ -88,9 +88,9 @@ O arquivo EPW usado deve ser o da cidade **brasileira** escolhida na Atividade 1
 
 ---
 
-### Atividade 3 — Edifício no Lote: Radiação nas Fachadas
+### Atividade 3 — Edifício no Lote: Análise de Radiação
 
-Insira o volume paramérico de um edificação ou elemento cosntruído no lote modelado na Atividade 2. Pode utilizar algoritmo gerado no edital 02.
+Insira o volume paramérico de um edificação ou elemento construído no lote modelado na Atividade 2. Pode utilizar algoritmo gerado no edital 02.
 
 <!-- Aplique a análise de radiação acumulada anual (`LB Incident Radiation`) nas **fachadas e cobertura** do edifício para **pelo menos três rotações**, por exemplo: 0°, 45° e 90°.
 
@@ -99,7 +99,8 @@ O parâmetro de rotação deve ser controlado por um **slider** no Grasshopper �
 **Entregáveis desta atividade:**
 
 - Canvas Grasshopper atualizado com o edifício/elemento construtivo paramétrico (`.gh`)
-- Capturas do heatmap de radiação nas fachadas para cada uma das flexões do modelo (um conjunto de imagens para cada flexão) e a análise comparativa — qual orientação resulta em menor radiação nas fachadas mais críticas (poente) e qual maximiza a captação solar na fachada norte, e por quê — **inseridas no relatório em PDF**
+- Capturas do heatmap de radiação no objeto de estudo escolhido (definido em orientação de acordo com o algoritmo de forma utilizado).
+<!-- - para cada uma das flexões do modelo (um conjunto de imagens para cada flexão) e a análise comparativa — qual orientação resulta em menor radiação nas fachadas mais críticas (poente) e qual maximiza a captação solar na fachada norte, e por quê — **inseridas no relatório em PDF** -->
 
 ---
 
