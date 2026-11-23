@@ -64,7 +64,11 @@ O objetivo é entender como o arquivo EPW organiza dados climáticos horários e
 
 ### Atividade 2 — Análise de Radiação e Sombreamento no Lote
 
-Modele no Rhino um lote real (volumes simples representando o entorno construído). Sugestão: utilize o plugin [Rhino Spatial](https://pascalnun.eu/tools/rhinospatial/) para a criação do entrono veja o [tutorial](https://www.youtube.com/watch?v=X0Rn9cWLM1w)
+Modele no Rhino um lote real (volumes simples representando o entorno construído). Sugestão: utilize o plugin [Rhino Spatial](https://pascalnun.eu/tools/rhinospatial/) para a criação do entrono. Veja o [tutorial](https://www.youtube.com/watch?v=X0Rn9cWLM1w).
+
+Ou Baixe o arquivo de [exemplo](../dl_assets/terreno_entorno/ENTORNO_BARRA_recorte.3dm)
+
+
 
 Sobre a superfície do **terreno do lote**, aplique:
 
